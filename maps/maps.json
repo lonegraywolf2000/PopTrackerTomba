@@ -1,0 +1,56 @@
+[
+  {
+    "name": "village_of_all_beginnings",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/village_of_all_beginnings.png"
+  },
+  {
+    "name": "dwarf_forest",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/dwarf_forest.png"
+  },
+  {
+    "name": "mushroom_forest",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/mushroom_forest.png"
+  },
+  {
+    "name": "phoenix_mountain",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/phoenix_mountain.png"
+  },
+  {
+    "name": "baccus_village",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/baccus_village.png"
+  },
+  {
+    "name": "lava_caves",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/lava_caves.png"
+  },
+  {
+    "name": "masakari_jungle",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/masakari_jungle.png"
+  },
+  {
+    "name": "trick_village",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/trick_village.png"
+  },
+  {
+    "name": "underground_maze",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/underground_maze.png"
+  }
+]

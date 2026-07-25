@@ -1,0 +1,66 @@
+{
+    "items": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "4,4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",         
+                        "item_size": 40,   
+                        "item_margin": "4,3",     
+                        "rows": [
+                            ["chick", "frog", "bananas", "furious_tornado", "hundred_year_old_bell"],
+                            ["hundred_year_old_key", "charity_wings", "biting_plant_flower", "healing_mushroom", "bucket"],
+                            ["telescope", "tear_jar", "flower_tears", "baron", "baked_yam"],
+                            ["leaf_butterfly", "torch", "bucket_of_water", "dirty_mirror", "funky_parasol"],
+                            ["wood_boomerang", "stone_boomerang", "iron_boomerang", "dashing_pants", "broken_vase"],
+                            ["blackjack", "flash_pants", "jumping_pants", "lunch_box", "large_lunch_box"],
+                            ["normal_pants", "grapple", "grapplejack", "baby_pig", "thousand_year_old_key"],
+                            ["ten_thousand_year_old_key", "million_year_old_key", "large_key_panel_1", "large_key_panel_2", "large_key_panel_3"],
+                            ["large_key_panel_4", "large_key_panel_5", "fuel_bar", "big_key", "small_key"],
+                            ["cheese", "magic_mirror", "bomb", "flower_seeds", "pipe"],
+                            ["wine", "bunk_flower", "math_bead_1", "math_bead_2", "math_bead_3"],
+                            ["math_bead_4", "math_bead_5", "math_bead_6", "math_bead_7", "math_bead_8"],
+                            ["math_bead_9", "math_bead_10", "bronze_medal", "silver_medal", "gold_medal"],
+                            ["raft", "golden_leaf_butterfly", "golden_fruit", "gold_flower", "psychic_fish"],
+                            ["jewel_of_fire", "jewel_of_water", "jewel_of_wind", "mighty_fish", "silver_powder"],
+                            ["molasses", "kokka_claw", "butamushi_thorn", "needlegator_teeth", "gold_candy"],
+                            ["blue_powder", "weed_killer", "thousand_year_old_bell", "funga_drum", "mighty_fish_food"],
+                            ["mysterious_mushroom", "sacred_fish", "rise_and_shine_powder", "banana_juice", "charles_pants"],
+                            ["three_crystal_balls", "what_the_thief_lost", "what_the_thief_forgot", "boss_jewel", "ordinary_mushroom"],
+                            ["seashell_necklace", "thiefs_wire", "strong_wire", "ten_thousand_year_old_bell", "million_year_old_bell"],
+                            ["cold_medecine", "yans_lunch_box", "key_to_ol_pond", "healing_herbs", "knowledge_fruit"],
+                            ["seaweed", "miners_hat"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "pig_bags": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "4,4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "content": [
+                    {
+                        "type": "itemgrid",         
+                        "item_size": 40,   
+                        "item_margin": "4,3",     
+                        "rows": [
+                            ["red_evil_pig_bag", "orange_evil_pig_bag", "yellow_evil_pig_bag", "green_evil_pig_bag", "blue_evil_pig_bag"],
+                            ["navy_evil_pig_bag", "pink_evil_pig_bag"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

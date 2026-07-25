@@ -1,0 +1,19 @@
+{
+    "name": "Tomba! PopTracker",
+    "game_name": "Tomba!",
+    "package_uid": "ap_tomba",
+    "package_version": "0.0.1",
+    "platform": "psx",
+	"author": "T4g1",
+    "variants": {
+        "default": {
+            "display_name": "Default tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "versions_url": "https://raw.githubusercontent.com/T4g1/PopTrackerTomba/refs/heads/main/versions.json",
+    "min_poptracker_version": "0.23.1",
+    "target_poptracker_version": "0.23.1"
+}

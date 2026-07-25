@@ -1,0 +1,88 @@
+{
+    "areas": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Village Of All Beginnings",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "village_of_all_beginnings"
+                    ]
+                }
+            },
+            {
+                "title": "Dwarf Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "dwarf_forest"
+                    ]
+                }
+            },
+            {
+                "title": "Mushroom Forest",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "mushroom_forest"
+                    ]
+                }
+            },
+            {
+                "title": "Phoenix Mountain",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "phoenix_mountain"
+                    ]
+                }
+            },
+            {
+                "title": "Baccus Village",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "baccus_village"
+                    ]
+                }
+            },
+            {
+                "title": "Lava Caves",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "lava_caves"
+                    ]
+                }
+            },
+            {
+                "title": "Masakari Jungle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "masakari_jungle"
+                    ]
+                }
+            },
+            {
+                "title": "Trick Village",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "trick_village"
+                    ]
+                }
+            },
+            {
+                "title": "Underground Maze",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "underground_maze"
+                    ]
+                }
+            }
+        ]
+    }
+}

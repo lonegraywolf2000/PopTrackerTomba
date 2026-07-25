@@ -1,0 +1,53 @@
+{
+    "tracker_horizontal": {
+        "type": "container",
+        "background": "#000000",
+        "content": {
+            "type": "dock",
+            "dropshadow": true,
+            "content": [
+                {
+                    "type": "dock",
+                    "dock": "left",
+                    "v_alignment": "stretch",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "v_alignment": "stretch",
+                                "key": "items"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Pig Bags",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "v_alignment": "stretch",
+                                "key": "pig_bags"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Events",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "v_alignment": "stretch",
+                                "key": "events"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "layout",
+                    "key": "areas"
+                }
+            ]
+        }
+    }
+}

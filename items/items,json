@@ -1,0 +1,686 @@
+[
+    {
+        "name": "Chick",
+        "type": "consumable",
+        "img": "images/items/chick.gif",
+        "codes": "chick"
+    },
+    {
+        "name": "Frog",
+        "type": "toggle",
+        "img": "images/items/frog.gif",
+        "codes": "frog"
+    },
+    {
+        "name": "Bananas",
+        "type": "consumable",
+        "img": "images/items/bananas.gif",
+        "codes": "bananas"
+    },
+    {
+        "name": "Furious Tornado",
+        "type": "toggle",
+        "img": "images/items/furious_tornado.gif",
+        "codes": "furious_tornado"
+    },
+    {
+        "name": "Hundred Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/hundred_year_old_bell.gif",
+        "codes": "hundred_year_old_bell"
+    },
+    {
+        "name": "Hundred Year Old Key",
+        "type": "toggle",
+        "img": "images/items/hundred_year_old_key.gif",
+        "codes": "hundred_year_old_key"
+    },
+    {
+        "name": "Charity Wings",
+        "type": "consumable",
+        "img": "images/items/charity_wings.gif",
+        "codes": "charity_wings"
+    },
+    {
+        "name": "Biting Plant Flower",
+        "type": "consumable",
+        "img": "images/items/biting_plant_flower.gif",
+        "codes": "biting_plant_flower"
+    },
+    {
+        "name": "Healing Mushroom",
+        "type": "consumable",
+        "img": "images/items/healing_mushroom.gif",
+        "codes": "healing_mushroom"
+    },
+    {
+        "name": "Bucket",
+        "type": "toggle",
+        "img": "images/items/bucket.gif",
+        "codes": "bucket"
+    },
+    {
+        "name": "Telescope",
+        "type": "toggle",
+        "img": "images/items/telescope.gif",
+        "codes": "telescope"
+    },
+    {
+        "name": "Tear Jar",
+        "type": "toggle",
+        "img": "images/items/tear_jar.gif",
+        "codes": "tear_jar"
+    },
+    {
+        "name": "Flower Tears",
+        "type": "toggle",
+        "img": "images/items/flower_tears.gif",
+        "codes": "flower_tears"
+    },
+    {
+        "name": "Baron",
+        "type": "toggle",
+        "img": "images/items/baron.gif",
+        "codes": "baron"
+    },
+    {
+        "name": "Baked Yam",
+        "type": "toggle",
+        "img": "images/items/baked_yam.gif",
+        "codes": "baked_yam"
+    },
+    {
+        "name": "Leaf Butterfly",
+        "type": "consumable",
+        "img": "images/items/leaf_butterfly.gif",
+        "codes": "leaf_butterfly"
+    },
+    {
+        "name": "Torch",
+        "type": "toggle",
+        "img": "images/items/torch.gif",
+        "codes": "torch"
+    },
+    {
+        "name": "Bucket Of Water",
+        "type": "toggle",
+        "img": "images/items/bucket_of_water.gif",
+        "codes": "bucket_of_water"
+    },
+    {
+        "name": "Dirty Mirror",
+        "type": "toggle",
+        "img": "images/items/dirty_mirror.gif",
+        "codes": "dirty_mirror"
+    },
+    {
+        "name": "Funky Parasol",
+        "type": "toggle",
+        "img": "images/items/funky_parasol.gif",
+        "codes": "funky_parasol"
+    },
+    {
+        "name": "Wood Boomerang",
+        "type": "toggle",
+        "img": "images/items/wood_boomerang.gif",
+        "codes": "wood_boomerang"
+    },
+    {
+        "name": "Stone Boomerang",
+        "type": "toggle",
+        "img": "images/items/stone_boomerang.gif",
+        "codes": "stone_boomerang"
+    },
+    {
+        "name": "Iron Boomerang",
+        "type": "toggle",
+        "img": "images/items/iron_boomerang.gif",
+        "codes": "iron_boomerang"
+    },
+    {
+        "name": "Dashing Pants",
+        "type": "toggle",
+        "img": "images/items/dashing_pants.gif",
+        "codes": "dashing_pants"
+    },
+    {
+        "name": "Broken Vase",
+        "type": "toggle",
+        "img": "images/items/broken_vase.gif",
+        "codes": "broken_vase"
+    },
+    {
+        "name": "Blackjack",
+        "type": "toggle",
+        "img": "images/items/blackjack.gif",
+        "codes": "blackjack"
+    },
+    {
+        "name": "Flash Pants",
+        "type": "toggle",
+        "img": "images/items/flash_pants.gif",
+        "codes": "flash_pants"
+    },
+    {
+        "name": "Jumping Pants",
+        "type": "toggle",
+        "img": "images/items/jumping_pants.gif",
+        "codes": "jumping_pants"
+    },
+    {
+        "name": "Lunch Box",
+        "type": "consumable",
+        "img": "images/items/lunch_box.gif",
+        "codes": "lunch_box"
+    },
+    {
+        "name": "Large Lunch Box",
+        "type": "consumable",
+        "img": "images/items/large_lunch_box.gif",
+        "codes": "large_lunch_box"
+    },
+    {
+        "name": "Normal Pants",
+        "type": "toggle",
+        "img": "images/items/normal_pants.gif",
+        "codes": "normal_pants"
+    },
+    {
+        "name": "Grapple",
+        "type": "toggle",
+        "img": "images/items/grapple.gif",
+        "codes": "grapple"
+    },
+    {
+        "name": "Grapplejack",
+        "type": "toggle",
+        "img": "images/items/grapplejack.gif",
+        "codes": "grapplejack"
+    },
+    {
+        "name": "Baby Pig",
+        "type": "toggle",
+        "img": "images/items/baby_pig.gif",
+        "codes": "baby_pig"
+    },
+    {
+        "name": "Thousand Year Old Key",
+        "type": "toggle",
+        "img": "images/items/thousand_year_old_key.gif",
+        "codes": "thousand_year_old_key"
+    },
+    {
+        "name": "Red Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/red_evil_pig_bag.gif",
+        "codes": "red_evil_pig_bag"
+    },
+    {
+        "name": "Orange Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/orange_evil_pig_bag.gif",
+        "codes": "orange_evil_pig_bag"
+    },
+    {
+        "name": "Yellow Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/yellow_evil_pig_bag.gif",
+        "codes": "yellow_evil_pig_bag"
+    },
+    {
+        "name": "Green Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/green_evil_pig_bag.gif",
+        "codes": "green_evil_pig_bag"
+    },
+    {
+        "name": "Blue Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/blue_evil_pig_bag.gif",
+        "codes": "blue_evil_pig_bag"
+    },
+    {
+        "name": "Navy Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/navy_evil_pig_bag.gif",
+        "codes": "navy_evil_pig_bag"
+    },
+    {
+        "name": "Pink Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/pink_evil_pig_bag.gif",
+        "codes": "pink_evil_pig_bag"
+    },
+    {
+        "name": "Ten Thousand Year Old Key",
+        "type": "toggle",
+        "img": "images/items/ten_thousand_year_old_key.gif",
+        "codes": "ten_thousand_year_old_key"
+    },
+    {
+        "name": "Million Year Old Key",
+        "type": "toggle",
+        "img": "images/items/million_year_old_key.gif",
+        "codes": "million_year_old_key"
+    },
+    {
+        "name": "Large Key Panel 1",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_1.gif",
+        "codes": "large_key_panel_1"
+    },
+    {
+        "name": "Large Key Panel 2",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_2.gif",
+        "codes": "large_key_panel_2"
+    },
+    {
+        "name": "Large Key Panel 3",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_3.gif",
+        "codes": "large_key_panel_3"
+    },
+    {
+        "name": "Large Key Panel 4",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_4.gif",
+        "codes": "large_key_panel_4"
+    },
+    {
+        "name": "Large Key Panel 5",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_5.gif",
+        "codes": "large_key_panel_5"
+    },
+    {
+        "name": "Fuel Bar",
+        "type": "toggle",
+        "img": "images/items/fuel_bar.gif",
+        "codes": "fuel_bar"
+    },
+    {
+        "name": "Big Key",
+        "type": "toggle",
+        "img": "images/items/big_key.gif",
+        "codes": "big_key"
+    },
+    {
+        "name": "Small Key",
+        "type": "toggle",
+        "img": "images/items/small_key.gif",
+        "codes": "small_key"
+    },
+    {
+        "name": "Cheese",
+        "type": "consumable",
+        "img": "images/items/cheese.gif",
+        "codes": "cheese"
+    },
+    {
+        "name": "Magic Mirror",
+        "type": "toggle",
+        "img": "images/items/magic_mirror.gif",
+        "codes": "magic_mirror"
+    },
+    {
+        "name": "Bomb",
+        "type": "toggle",
+        "img": "images/items/bomb.gif",
+        "codes": "bomb"
+    },
+    {
+        "name": "Flower Seeds",
+        "type": "toggle",
+        "img": "images/items/flower_seeds.gif",
+        "codes": "flower_seeds"
+    },
+    {
+        "name": "Pipe",
+        "type": "toggle",
+        "img": "images/items/pipe.gif",
+        "codes": "pipe"
+    },
+    {
+        "name": "Wine",
+        "type": "toggle",
+        "img": "images/items/wine.gif",
+        "codes": "wine"
+    },
+    {
+        "name": "Bunk Flower",
+        "type": "consumable",
+        "img": "images/items/bunk_flower.gif",
+        "codes": "bunk_flower"
+    },
+    {
+        "name": "Math Bead 1",
+        "type": "toggle",
+        "img": "images/items/math_bead_1.gif",
+        "codes": "math_bead_1"
+    },
+    {
+        "name": "Math Bead 2",
+        "type": "toggle",
+        "img": "images/items/math_bead_2.gif",
+        "codes": "math_bead_2"
+    },
+    {
+        "name": "Math Bead 3",
+        "type": "toggle",
+        "img": "images/items/math_bead_3.gif",
+        "codes": "math_bead_3"
+    },
+    {
+        "name": "Math Bead 4",
+        "type": "toggle",
+        "img": "images/items/math_bead_4.gif",
+        "codes": "math_bead_4"
+    },
+    {
+        "name": "Math Bead 5",
+        "type": "toggle",
+        "img": "images/items/math_bead_5.gif",
+        "codes": "math_bead_5"
+    },
+    {
+        "name": "Math Bead 6",
+        "type": "toggle",
+        "img": "images/items/math_bead_6.gif",
+        "codes": "math_bead_6"
+    },
+    {
+        "name": "Math Bead 7",
+        "type": "toggle",
+        "img": "images/items/math_bead_7.gif",
+        "codes": "math_bead_7"
+    },
+    {
+        "name": "Math Bead 8",
+        "type": "toggle",
+        "img": "images/items/math_bead_8.gif",
+        "codes": "math_bead_8"
+    },
+    {
+        "name": "Math Bead 9",
+        "type": "toggle",
+        "img": "images/items/math_bead_9.gif",
+        "codes": "math_bead_9"
+    },
+    {
+        "name": "Math Bead 10",
+        "type": "toggle",
+        "img": "images/items/math_bead_10.gif",
+        "codes": "math_bead_10"
+    },
+    {
+        "name": "Bronze Medal",
+        "type": "toggle",
+        "img": "images/items/bronze_medal.gif",
+        "codes": "bronze_medal"
+    },
+    {
+        "name": "Silver Medal",
+        "type": "toggle",
+        "img": "images/items/silver_medal.gif",
+        "codes": "silver_medal"
+    },
+    {
+        "name": "Gold Medal",
+        "type": "toggle",
+        "img": "images/items/gold_medal.gif",
+        "codes": "gold_medal"
+    },
+    {
+        "name": "Raft",
+        "type": "toggle",
+        "img": "images/items/raft.gif",
+        "codes": "raft"
+    },
+    {
+        "name": "Golden Leaf Butterfly",
+        "type": "toggle",
+        "img": "images/items/golden_leaf_butterfly.gif",
+        "codes": "golden_leaf_butterfly"
+    },
+    {
+        "name": "Golden Fruit",
+        "type": "toggle",
+        "img": "images/items/golden_fruit.gif",
+        "codes": "golden_fruit"
+    },
+    {
+        "name": "Gold Flower",
+        "type": "toggle",
+        "img": "images/items/gold_flower.gif",
+        "codes": "gold_flower"
+    },
+    {
+        "name": "Psychic Fish",
+        "type": "toggle",
+        "img": "images/items/psychic_fish.gif",
+        "codes": "psychic_fish"
+    },
+    {
+        "name": "Jewel Of Fire",
+        "type": "toggle",
+        "img": "images/items/jewel_of_fire.gif",
+        "codes": "jewel_of_fire"
+    },
+    {
+        "name": "Jewel Of Water",
+        "type": "toggle",
+        "img": "images/items/jewel_of_water.gif",
+        "codes": "jewel_of_water"
+    },
+    {
+        "name": "Jewel Of Wind",
+        "type": "toggle",
+        "img": "images/items/jewel_of_wind.gif",
+        "codes": "jewel_of_wind"
+    },
+    {
+        "name": "Mighty Fish",
+        "type": "toggle",
+        "img": "images/items/mighty_fish.gif",
+        "codes": "mighty_fish"
+    },
+    {
+        "name": "Silver Powder",
+        "type": "toggle",
+        "img": "images/items/silver_powder.gif",
+        "codes": "silver_powder"
+    },
+    {
+        "name": "Molasses",
+        "type": "toggle",
+        "img": "images/items/molasses.gif",
+        "codes": "molasses"
+    },
+    {
+        "name": "Kokka Claw",
+        "type": "consumable",
+        "img": "images/items/kokka_claw.gif",
+        "codes": "kokka_claw"
+    },
+    {
+        "name": "Butamushi Thorn",
+        "type": "consumable",
+        "img": "images/items/butamushi_thorn.gif",
+        "codes": "butamushi_thorn"
+    },
+    {
+        "name": "Needlegator Teeth",
+        "type": "consumable",
+        "img": "images/items/needlegator_teeth.gif",
+        "codes": "needlegator_teeth"
+    },
+    {
+        "name": "Gold Candy",
+        "type": "toggle",
+        "img": "images/items/gold_candy.gif",
+        "codes": "gold_candy"
+    },
+    {
+        "name": "Blue Powder",
+        "type": "toggle",
+        "img": "images/items/blue_powder.gif",
+        "codes": "blue_powder"
+    },
+    {
+        "name": "Weed Killer",
+        "type": "toggle",
+        "img": "images/items/weed_killer.gif",
+        "codes": "weed_killer"
+    },
+    {
+        "name": "Thousand Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/thousand_year_old_bell.gif",
+        "codes": "thousand_year_old_bell"
+    },
+    {
+        "name": "Funga Drum",
+        "type": "toggle",
+        "img": "images/items/funga_drum.gif",
+        "codes": "funga_drum"
+    },
+    {
+        "name": "Mighty Fish Food",
+        "type": "toggle",
+        "img": "images/items/mighty_fish_food.gif",
+        "codes": "mighty_fish_food"
+    },
+    {
+        "name": "Mysterious Mushroom",
+        "type": "toggle",
+        "img": "images/items/mysterious_mushroom.gif",
+        "codes": "mysterious_mushroom"
+    },
+    {
+        "name": "Sacred Fish",
+        "type": "toggle",
+        "img": "images/items/sacred_fish.gif",
+        "codes": "sacred_fish"
+    },
+    {
+        "name": "Rise And Shine Powder",
+        "type": "toggle",
+        "img": "images/items/rise_and_shine_powder.gif",
+        "codes": "rise_and_shine_powder"
+    },
+    {
+        "name": "Banana Juice",
+        "type": "toggle",
+        "img": "images/items/banana_juice.gif",
+        "codes": "banana_juice"
+    },
+    {
+        "name": "Charles Pants",
+        "type": "toggle",
+        "img": "images/items/charles_pants.gif",
+        "codes": "charles_pants"
+    },
+    {
+        "name": "Three Crystal Balls",
+        "type": "toggle",
+        "img": "images/items/three_crystal_balls.gif",
+        "codes": "three_crystal_balls"
+    },
+    {
+        "name": "What The Thief Lost",
+        "type": "toggle",
+        "img": "images/items/what_the_thief_lost.gif",
+        "codes": "what_the_thief_lost"
+    },
+    {
+        "name": "What The Thief Forgot",
+        "type": "toggle",
+        "img": "images/items/what_the_thief_forgot.gif",
+        "codes": "what_the_thief_forgot"
+    },
+    {
+        "name": "Boss Jewel",
+        "type": "toggle",
+        "img": "images/items/boss_jewel.gif",
+        "codes": "boss_jewel"
+    },
+    {
+        "name": "Ordinary Mushroom",
+        "type": "toggle",
+        "img": "images/items/ordinary_mushroom.gif",
+        "codes": "ordinary_mushroom"
+    },
+    {
+        "name": "Seashell Necklace",
+        "type": "toggle",
+        "img": "images/items/seashell_necklace.gif",
+        "codes": "seashell_necklace"
+    },
+    {
+        "name": "Thiefs Wire",
+        "type": "toggle",
+        "img": "images/items/thiefs_wire.gif",
+        "codes": "thiefs_wire"
+    },
+    {
+        "name": "Strong Wire",
+        "type": "toggle",
+        "img": "images/items/strong_wire.gif",
+        "codes": "strong_wire"
+    },
+    {
+        "name": "Ten Thousand Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/ten_thousand_year_old_bell.gif",
+        "codes": "ten_thousand_year_old_bell"
+    },
+    {
+        "name": "Million Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/million_year_old_bell.gif",
+        "codes": "million_year_old_bell"
+    },
+    {
+        "name": "Cold Medecine",
+        "type": "toggle",
+        "img": "images/items/cold_medecine.gif",
+        "codes": "cold_medecine"
+    },
+    {
+        "name": "Yans Lunch Box",
+        "type": "toggle",
+        "img": "images/items/yans_lunch_box.gif",
+        "codes": "yans_lunch_box"
+    },
+    {
+        "name": "Key To Ol Pond",
+        "type": "toggle",
+        "img": "images/items/key_to_ol_pond.gif",
+        "codes": "key_to_ol_pond"
+    },
+    {
+        "name": "Healing Herbs",
+        "type": "toggle",
+        "img": "images/items/healing_herbs.gif",
+        "codes": "healing_herbs"
+    },
+    {
+        "name": "Knowledge Fruit",
+        "type": "toggle",
+        "img": "images/items/knowledge_fruit.gif",
+        "codes": "knowledge_fruit"
+    },
+    {
+        "name": "Seaweed",
+        "type": "toggle",
+        "img": "images/items/seaweed.gif",
+        "codes": "seaweed"
+    },
+    {
+        "name": "Miners Hat",
+        "type": "toggle",
+        "img": "images/items/miners_hat.gif",
+        "codes": "miners_hat"
+    }
+]
