@@ -8,37 +8,39 @@
             "content": [
                 {
                     "type": "dock",
-                    "dock": "left",
-                    "v_alignment": "stretch",
+                    "dock": "bottom",
+                    "v_alignment": "bottom",
                     "content": [
                         {
                             "type": "group",
-                            "header": "Items",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "v_alignment": "stretch",
-                                "key": "items"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Pig Bags",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "v_alignment": "stretch",
-                                "key": "pig_bags"
-                            }
-                        },
-                        {
-                            "type": "group",
                             "header": "Events",
-                            "dock": "top",
+                            "dock": "left",
                             "content": {
                                 "type": "layout",
                                 "v_alignment": "stretch",
                                 "key": "events"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "array",
+                                "orientation": "vertical",
+                                "margin": "0,0",
+                                "content": [
+                                    {
+                                        "type": "layout",
+                                        "v_alignment": "top",
+                                        "key": "pig_bags"
+                                    },
+                                    {
+                                        "type": "layout",
+                                        "v_alignment": "top",
+                                        "key": "items"
+                                    }
+                                ]
                             }
                         }
                     ]

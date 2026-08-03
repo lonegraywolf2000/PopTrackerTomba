@@ -326,7 +326,7 @@
     {
         "name": "Bomb",
         "type": "toggle",
-        "img": "images/items/bomb.gif",
+        "img": "images/items/bomb.png",
         "codes": "bomb"
     },
     {
@@ -682,5 +682,11 @@
         "type": "toggle",
         "img": "images/items/miners_hat.gif",
         "codes": "miners_hat"
+    },
+    {
+        "name": "Vitality",
+        "type": "consumable",
+        "img": "images/items/vitmax.png",
+        "codes": "vitality_max"
     }
 ]

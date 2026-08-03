@@ -3,780 +3,774 @@
         "name": "A Drink for Grownups",
         "type": "toggle",
         "img": "images/events/a_drink_for_grownups.gif",
-        "codes": "a_drink_for_grownups"
+        "codes": "event_a_drink_for_grownups"
     },
     {
         "name": "A Familiar Looking Mansion",
         "type": "toggle",
         "img": "images/events/a_familiar_looking_mansion.gif",
-        "codes": "a_familiar_looking_mansion"
+        "codes": "event_a_familiar_looking_mansion"
     },
     {
         "name": "A Hungry Monkey",
         "type": "toggle",
         "img": "images/events/a_hungry_monkey.gif",
-        "codes": "a_hungry_monkey"
+        "codes": "event_a_hungry_monkey"
     },
     {
         "name": "A Large Key Hole!",
         "type": "toggle",
         "img": "images/events/a_large_key_hole.gif",
-        "codes": "a_large_key_hole"
+        "codes": "event_a_large_key_hole"
     },
     {
         "name": "A Lost Child",
         "type": "toggle",
         "img": "images/events/a_lost_child.gif",
-        "codes": "a_lost_child"
+        "codes": "event_a_lost_child"
     },
     {
         "name": "A Magic Mirror?",
         "type": "toggle",
         "img": "images/events/a_magic_mirror.gif",
-        "codes": "a_magic_mirror"
+        "codes": "event_a_magic_mirror"
     },
     {
         "name": "A Man's Best Friend",
         "type": "toggle",
         "img": "images/events/a_mans_best_friend.gif",
-        "codes": "a_mans_best_friend"
+        "codes": "event_a_mans_best_friend"
     },
     {
         "name": "A Precious Treasure Chest?",
         "type": "toggle",
         "img": "images/events/a_precious_treasure_chest.gif",
-        "codes": "a_precious_treasure_chest"
+        "codes": "event_a_precious_treasure_chest"
     },
     {
         "name": "A Real Evil Pig",
         "type": "toggle",
         "img": "images/events/a_real_evil_pig.gif",
-        "codes": "a_real_evil_pig"
+        "codes": "event_a_real_evil_pig"
     },
     {
         "name": "A Refreshing Drink",
         "type": "toggle",
         "img": "images/events/a_refreshing_drink.gif",
-        "codes": "a_refreshing_drink"
+        "codes": "event_a_refreshing_drink"
     },
     {
         "name": "A Safe Mushroom?",
         "type": "toggle",
         "img": "images/events/a_safe_mushroom.gif",
-        "codes": "a_safe_mushroom"
+        "codes": "event_a_safe_mushroom"
     },
     {
         "name": "A Small Key Hole!",
         "type": "toggle",
         "img": "images/events/a_small_key_hole.gif",
-        "codes": "a_small_key_hole"
+        "codes": "event_a_small_key_hole"
     },
     {
         "name": "A Stormy Pig Bag",
         "type": "toggle",
         "img": "images/events/a_stormy_pig_bag.gif",
-        "codes": "a_stormy_pig_bag"
+        "codes": "event_a_stormy_pig_bag"
     },
     {
         "name": "Baccus Village",
         "type": "toggle",
         "img": "images/events/baccus_village.gif",
-        "codes": "baccus_village"
+        "codes": "event_baccus_village"
     },
     {
         "name": "Baron's Strength",
         "type": "toggle",
         "img": "images/events/barons_strength.gif",
-        "codes": "barons_strength"
+        "codes": "event_barons_strength"
     },
     {
         "name": "Beginner's Dwarf Language",
         "type": "toggle",
         "img": "images/events/beginners_dwarf_language.gif",
-        "codes": "beginners_dwarf_language"
+        "codes": "event_beginners_dwarf_language"
     },
     {
         "name": "Biting Plant Flower",
         "type": "toggle",
         "img": "images/events/biting_plant_flower.gif",
-        "codes": "biting_plant_flower"
+        "codes": "event_biting_plant_flower"
     },
     {
         "name": "Blue Hidden Powers",
         "type": "toggle",
         "img": "images/events/blue_hidden_powers.gif",
-        "codes": "blue_hidden_powers"
+        "codes": "event_blue_hidden_powers"
     },
     {
         "name": "Break the Magic Egg!",
         "type": "toggle",
         "img": "images/events/break_the_magic_egg.gif",
-        "codes": "break_the_magic_egg"
+        "codes": "event_break_the_magic_egg"
     },
     {
         "name": "Break the Rusty Door!",
         "type": "toggle",
         "img": "images/events/break_the_rusty_door.gif",
-        "codes": "break_the_rusty_door"
+        "codes": "event_break_the_rusty_door"
     },
     {
         "name": "Can't Stop Crying",
         "type": "toggle",
         "img": "images/events/cant_stop_crying.gif",
-        "codes": "cant_stop_crying"
+        "codes": "event_cant_stop_crying"
     },
     {
         "name": "Charles' Pants",
         "type": "toggle",
         "img": "images/events/charles_pants.gif",
-        "codes": "charles_pants"
+        "codes": "event_charles_pants"
     },
     {
         "name": "Clear the Fog",
         "type": "toggle",
         "img": "images/events/clear_the_fog.gif",
-        "codes": "clear_the_fog"
+        "codes": "event_clear_the_fog"
     },
     {
         "name": "Cry Baby",
         "type": "toggle",
         "img": "images/events/cry_baby.gif",
-        "codes": "cry_baby"
+        "codes": "event_cry_baby"
     },
     {
         "name": "Death Fruit Juice",
         "type": "toggle",
         "img": "images/events/death_fruit_juice.gif",
-        "codes": "death_fruit_juice"
+        "codes": "event_death_fruit_juice"
     },
     {
         "name": "Delicious Knowledge Fruit",
         "type": "toggle",
         "img": "images/events/delicious_knowledge_fruit.gif",
-        "codes": "delicious_knowledge_fruit"
+        "codes": "event_delicious_knowledge_fruit"
     },
     {
         "name": "Dig Like a Mole",
         "type": "toggle",
         "img": "images/events/dig_like_a_mole.gif",
-        "codes": "dig_like_a_mole"
+        "codes": "event_dig_like_a_mole"
     },
     {
         "name": "Dwarf Elder",
         "type": "toggle",
         "img": "images/events/dwarf_elder.gif",
-        "codes": "dwarf_elder"
+        "codes": "event_dwarf_elder"
     },
     {
         "name": "Grandpa's Bracelet",
         "type": "toggle",
         "img": "images/events/grandpas_bracelet.gif",
-        "codes": "grandpas_bracelet"
+        "codes": "event_grandpas_bracelet"
     },
     {
         "name": "Find Charles!",
         "type": "toggle",
-        "img": "images/events/find_charles.gif",
-        "codes": "find_charles"
+        "img": "images/events/a_hungry_monkey.gif",
+        "codes": "event_find_charles"
     },
     {
         "name": "Flower Seeds",
         "type": "toggle",
         "img": "images/events/flower_seeds.gif",
-        "codes": "flower_seeds"
+        "codes": "event_flower_seeds"
     },
     {
         "name": "Food for Fuel?",
         "type": "toggle",
         "img": "images/events/food_for_fuel.gif",
-        "codes": "food_for_fuel"
+        "codes": "event_food_for_fuel"
     },
     {
         "name": "Green Hidden Powers",
         "type": "toggle",
         "img": "images/events/green_hidden_powers.gif",
-        "codes": "green_hidden_powers"
+        "codes": "event_green_hidden_powers"
     },
     {
         "name": "Healing Herbs for Baron",
         "type": "toggle",
         "img": "images/events/healing_herbs_for_baron.gif",
-        "codes": "healing_herbs_for_baron"
+        "codes": "event_healing_herbs_for_baron"
     },
     {
         "name": "Hide and Go Seek",
         "type": "toggle",
         "img": "images/events/hide_and_go_seek.gif",
-        "codes": "hide_and_go_seek"
+        "codes": "event_hide_and_go_seek"
     },
     {
         "name": "I Can't Swim...",
         "type": "toggle",
         "img": "images/events/i_cant_swim.gif",
-        "codes": "i_cant_swim"
+        "codes": "event_i_cant_swim"
     },
     {
         "name": "I Need a Bomb",
         "type": "toggle",
         "img": "images/events/i_need_a_bomb.gif",
-        "codes": "i_need_a_bomb"
+        "codes": "event_i_need_a_bomb"
     },
     {
         "name": "I Need a Tear Bottle",
         "type": "toggle",
         "img": "images/events/i_need_a_tear_bottle.gif",
-        "codes": "i_need_a_tear_bottle"
+        "codes": "event_i_need_a_tear_bottle"
     },
     {
         "name": "I Want a Bronze Medal",
         "type": "toggle",
         "img": "images/events/i_want_a_bronze_medal.gif",
-        "codes": "i_want_a_bronze_medal"
+        "codes": "event_i_want_a_bronze_medal"
     },
     {
         "name": "I Want a Silver Medal",
         "type": "toggle",
         "img": "images/events/i_want_a_silver_medal.gif",
-        "codes": "i_want_a_silver_medal"
+        "codes": "event_i_want_a_silver_medal"
     },
     {
         "name": "I Want a Gold Medal",
         "type": "toggle",
         "img": "images/events/i_want_a_gold_medal.gif",
-        "codes": "i_want_a_gold_medal"
+        "codes": "event_i_want_a_gold_medal"
     },
     {
         "name": "I'm So Hungry",
         "type": "toggle",
         "img": "images/events/im_so_hungry.gif",
-        "codes": "im_so_hungry"
+        "codes": "event_im_so_hungry"
     },
     {
         "name": "Inside the Kokka Eggs",
         "type": "toggle",
         "img": "images/events/inside_the_kokka_eggs.gif",
-        "codes": "inside_the_kokka_eggs"
+        "codes": "event_inside_the_kokka_eggs"
     },
     {
         "name": "Lava Caves",
         "type": "toggle",
         "img": "images/events/lava_caves.gif",
-        "codes": "lava_caves"
+        "codes": "event_lava_caves"
     },
     {
         "name": "Leaf Butterflies",
         "type": "toggle",
         "img": "images/events/leaf_butterflies.gif",
-        "codes": "leaf_butterflies"
+        "codes": "event_leaf_butterflies"
     },
     {
         "name": "Leaf Slider",
         "type": "toggle",
         "img": "images/events/leaf_slider.gif",
-        "codes": "leaf_slider"
+        "codes": "event_leaf_slider"
     },
     {
         "name": "Let's Make Candy!",
         "type": "toggle",
         "img": "images/events/lets_make_candy.gif",
-        "codes": "lets_make_candy"
+        "codes": "event_lets_make_candy"
     },
     {
         "name": "Let's Ride the Raft!",
         "type": "toggle",
         "img": "images/events/lets_ride_the_raft.gif",
-        "codes": "lets_ride_the_raft"
+        "codes": "event_lets_ride_the_raft"
     },
     {
         "name": "Look and See?!",
         "type": "toggle",
         "img": "images/events/look_and_see.gif",
-        "codes": "look_and_see"
+        "codes": "event_look_and_see"
     },
     {
         "name": "Lost and Found",
         "type": "toggle",
         "img": "images/events/lost_and_found.gif",
-        "codes": "lost_and_found"
+        "codes": "event_lost_and_found"
     },
     {
         "name": "Mighty Fish Food",
         "type": "toggle",
         "img": "images/events/mighty_fish_food.gif",
-        "codes": "mighty_fish_food"
+        "codes": "event_mighty_fish_food"
     },
     {
         "name": "Million Year Old Wish",
         "type": "toggle",
         "img": "images/events/million_year_old_wish.gif",
-        "codes": "million_year_old_wish"
+        "codes": "event_million_year_old_wish"
     },
     {
         "name": "Monster Hunt",
         "type": "toggle",
         "img": "images/events/monster_hunt.gif",
-        "codes": "monster_hunt"
+        "codes": "event_monster_hunt"
     },
     {
         "name": "Motocross Course",
         "type": "toggle",
         "img": "images/events/motocross_course.gif",
-        "codes": "motocross_course"
+        "codes": "event_motocross_course"
     },
     {
         "name": "Painting of a Big Key?",
         "type": "toggle",
         "img": "images/events/painting_of_a_big_key.gif",
-        "codes": "painting_of_a_big_key"
+        "codes": "event_painting_of_a_big_key"
     },
     {
         "name": "Peach Flower Gas",
         "type": "toggle",
         "img": "images/events/peach_flower_gas.gif",
-        "codes": "peach_flower_gas"
+        "codes": "event_peach_flower_gas"
     },
     {
         "name": "Phoenix Mountain",
         "type": "toggle",
         "img": "images/events/phoenix_mountain.gif",
-        "codes": "phoenix_mountain"
+        "codes": "event_phoenix_mountain"
     },
     {
         "name": "Plant a Flower Garden",
         "type": "toggle",
         "img": "images/events/plant_a_flower_garden.gif",
-        "codes": "plant_a_flower_garden"
+        "codes": "event_plant_a_flower_garden"
     },
     {
         "name": "Power Up for Tools!?",
         "type": "toggle",
         "img": "images/events/power_up_for_tools.gif",
-        "codes": "power_up_for_tools"
+        "codes": "event_power_up_for_tools"
     },
     {
         "name": "Ready, Set, Go!",
         "type": "toggle",
         "img": "images/events/ready_set_go.gif",
-        "codes": "ready_set_go"
+        "codes": "event_ready_set_go"
     },
     {
         "name": "Red + Blue = ?",
         "type": "toggle",
         "img": "images/events/red_blue.gif",
-        "codes": "red_blue"
+        "codes": "event_red_blue"
     },
     {
         "name": "Red Hidden Powers",
         "type": "toggle",
         "img": "images/events/red_hidden_powers.gif",
-        "codes": "red_hidden_powers"
+        "codes": "event_red_hidden_powers"
     },
     {
         "name": "Road to Baccus Lake",
         "type": "toggle",
         "img": "images/events/road_to_baccus_lake.gif",
-        "codes": "road_to_baccus_lake"
+        "codes": "event_road_to_baccus_lake"
     },
     {
         "name": "Save the Dwarves",
         "type": "toggle",
         "img": "images/events/save_the_dwarves.gif",
-        "codes": "save_the_dwarves"
+        "codes": "event_save_the_dwarves"
     },
     {
         "name": "Seaweed for Your Health",
         "type": "toggle",
         "img": "images/events/seaweed_for_your_health.gif",
-        "codes": "seaweed_for_your_health"
+        "codes": "event_seaweed_for_your_health"
     },
     {
         "name": "Seven Friends",
         "type": "toggle",
         "img": "images/events/seven_friends.gif",
-        "codes": "seven_friends"
+        "codes": "event_seven_friends"
     },
     {
         "name": "Smile!",
         "type": "toggle",
         "img": "images/events/smile.gif",
-        "codes": "smile"
+        "codes": "event_smile"
     },
     {
         "name": "Some Cheese Please",
         "type": "toggle",
         "img": "images/events/some_cheese_please.gif",
-        "codes": "some_cheese_please"
+        "codes": "event_some_cheese_please"
     },
     {
         "name": "Something's Cookin'?",
         "type": "toggle",
         "img": "images/events/somethings_cookin.gif",
-        "codes": "somethings_cookin"
+        "codes": "event_somethings_cookin"
     },
     {
         "name": "Source of Evil Magic",
         "type": "toggle",
         "img": "images/events/source_of_evil_magic.gif",
-        "codes": "source_of_evil_magic"
+        "codes": "event_source_of_evil_magic"
     },
     {
         "name": "Stop the Fight!",
         "type": "toggle",
         "img": "images/events/stop_the_fight.gif",
-        "codes": "stop_the_fight"
+        "codes": "event_stop_the_fight"
     },
     {
         "name": "Take Me Home",
         "type": "toggle",
         "img": "images/events/take_me_home.gif",
-        "codes": "take_me_home"
+        "codes": "event_take_me_home"
     },
     {
         "name": "Take Out",
         "type": "toggle",
         "img": "images/events/take_out.gif",
-        "codes": "take_out"
+        "codes": "event_take_out"
     },
     {
         "name": "Take Two of These",
         "type": "toggle",
-        "img": "images/events/take_two_of_THESE.gif",
-        "codes": "take_two_of_these"
+        "img": "images/events/take_two_of_these.gif",
+        "codes": "event_take_two_of_these"
     },
     {
         "name": "Tale of the Evil Pigs",
         "type": "toggle",
         "img": "images/events/tale_of_the_evil_pigs.gif",
-        "codes": "tale_of_the_evil_pigs"
+        "codes": "event_tale_of_the_evil_pigs"
     },
     {
         "name": "Tears from a Flower",
         "type": "toggle",
         "img": "images/events/tears_from_a_flower.gif",
-        "codes": "tears_from_a_flower"
+        "codes": "event_tears_from_a_flower"
     },
     {
         "name": "The AP Box",
         "type": "toggle",
         "img": "images/events/the_ap_box.gif",
-        "codes": "the_ap_box"
+        "codes": "event_the_ap_box"
     },
     {
         "name": "The Blue Fortune Teller",
         "type": "toggle",
         "img": "images/events/the_blue_fortune_teller.gif",
-        "codes": "the_blue_fortune_teller"
+        "codes": "event_the_blue_fortune_teller"
     },
     {
         "name": "The Boss' Trasure",
         "type": "toggle",
         "img": "images/events/the_boss_treasure.gif",
-        "codes": "the_boss_treasure"
+        "codes": "event_the_boss_treasure"
     },
     {
         "name": "The Broken Fountain",
         "type": "toggle",
         "img": "images/events/the_broken_fountain.gif",
-        "codes": "the_broken_fountain"
-    },
-    {
-        "name": "The Civilization Machine",
-        "type": "toggle",
-        "img": "images/events/the_civilization_machine.gif",
-        "codes": "the_civilization_machine"
+        "codes": "event_the_broken_fountain"
     },
     {
         "name": "The Cute Witch",
         "type": "toggle",
         "img": "images/events/the_cute_witch.gif",
-        "codes": "the_cute_witch"
+        "codes": "event_the_cute_witch"
     },
     {
         "name": "The Deep Jungle Pig",
         "type": "toggle",
         "img": "images/events/the_deep_jungle_pig.gif",
-        "codes": "the_deep_jungle_pig"
+        "codes": "event_the_deep_jungle_pig"
     },
     {
         "name": "The Evil Pig Bag",
         "type": "toggle",
         "img": "images/events/the_evil_pig_bag.gif",
-        "codes": "the_evil_pig_bag"
+        "codes": "event_the_evil_pig_bag"
     },
     {
         "name": "The Famous Digger",
         "type": "toggle",
         "img": "images/events/the_famous_digger.gif",
-        "codes": "the_famous_digger"
+        "codes": "event_the_famous_digger"
     },
     {
         "name": "The Fire Pig Bag",
         "type": "toggle",
-        "img": "images/events/the_fire_pig_bag.gif",
-        "codes": "the_fire_pig_bag"
+        "img": "images/events/lava_caves.gif",
+        "codes": "event_the_fire_pig_bag"
     },
     {
         "name": "The Flower Tower",
         "type": "toggle",
         "img": "images/events/the_flower_tower.gif",
-        "codes": "the_flower_tower"
+        "codes": "event_the_flower_tower"
     },
     {
         "name": "The Great Escape",
         "type": "toggle",
         "img": "images/events/the_great_escape.gif",
-        "codes": "the_great_escape"
+        "codes": "event_the_great_escape"
     },
     {
         "name": "The Haunted Mansion",
         "type": "toggle",
         "img": "images/events/the_haunted_mansion.gif",
-        "codes": "the_haunted_mansion"
+        "codes": "event_the_haunted_mansion"
     },
     {
         "name": "The Haunted Pig Bag",
         "type": "toggle",
         "img": "images/events/the_haunted_pig_bag.gif",
-        "codes": "the_haunted_pig_bag"
+        "codes": "event_the_haunted_pig_bag"
     },
     {
         "name": "The Jungle Pig Bag",
         "type": "toggle",
         "img": "images/events/the_jungle_pig_bag.gif",
-        "codes": "the_jungle_pig_bag"
+        "codes": "event_the_jungle_pig_bag"
     },
     {
         "name": "The Master of the Skies",
         "type": "toggle",
         "img": "images/events/the_master_of_the_skies.gif",
-        "codes": "the_master_of_the_skies"
+        "codes": "event_the_master_of_the_skies"
     },
     {
         "name": "The Mermaid's Necklace",
         "type": "toggle",
         "img": "images/events/the_mermaids_necklace.gif",
-        "codes": "the_mermaids_necklace"
+        "codes": "event_the_mermaids_necklace"
     },
     {
         "name": "The Mermaid's Singing Rock",
         "type": "toggle",
         "img": "images/events/the_mermaids_singing_rock.gif",
-        "codes": "the_mermaids_singing_rock"
+        "codes": "event_the_mermaids_singing_rock"
     },
     {
         "name": "The Mouse Pig Bag",
         "type": "toggle",
         "img": "images/events/the_mouse_pig_bag.gif",
-        "codes": "the_mouse_pig_bag"
+        "codes": "event_the_mouse_pig_bag"
     },
     {
         "name": "The Mysterious Mushroom",
         "type": "toggle",
         "img": "images/events/the_mysterious_mushroom.gif",
-        "codes": "the_mysterious_mushroom"
+        "codes": "event_the_mysterious_mushroom"
     },
     {
         "name": "The Phoenix's Favorite",
         "type": "toggle",
         "img": "images/events/the_phoenixs_favorite.gif",
-        "codes": "the_phoenixs_favorite"
+        "codes": "event_the_phoenixs_favorite"
     },
     {
         "name": "The Pump Rocks",
         "type": "toggle",
         "img": "images/events/the_pumps_rocks.gif",
-        "codes": "the_pumps_rocks"
+        "codes": "event_the_pumps_rocks"
     },
     {
         "name": "The Red Fortune Teller",
         "type": "toggle",
         "img": "images/events/the_red_fortune_teller.gif",
-        "codes": "the_red_fortune_teller"
+        "codes": "event_the_red_fortune_teller"
     },
     {
         "name": "The Thief's Door",
         "type": "toggle",
         "img": "images/events/the_thiefs_door.gif",
-        "codes": "the_thiefs_door"
+        "codes": "event_the_thiefs_door"
     },
     {
         "name": "The Troubled Thief",
         "type": "toggle",
         "img": "images/events/the_troubled_thief.gif",
-        "codes": "the_troubled_thief"
+        "codes": "event_the_troubled_thief"
     },
     {
         "name": "The Underwater Pig Bag",
         "type": "toggle",
         "img": "images/events/the_underwater_pig_bag.gif",
-        "codes": "the_underwater_pig_bag"
+        "codes": "event_the_underwater_pig_bag"
     },
     {
         "name": "The World's Greatest Pout?",
         "type": "toggle",
         "img": "images/events/the_worlds_greatest_pout.gif",
-        "codes": "the_worlds_greatest_pout"
+        "codes": "event_the_worlds_greatest_pout"
     },
     {
         "name": "The World's Greatest Smile!",
         "type": "toggle",
         "img": "images/events/the_worlds_greatest_smile.gif",
-        "codes": "the_worlds_greatest_smile"
+        "codes": "event_the_worlds_greatest_smile"
     },
     {
         "name": "The 5 Golden Items",
         "type": "toggle",
         "img": "images/events/the_5_golden_items.gif",
-        "codes": "the_5_golden_items"
+        "codes": "event_the_5_golden_items"
     },
     {
         "name": "The 8th Evil Pig Bag?",
         "type": "toggle",
         "img": "images/events/the_8th_evil_pig_bag.gif",
-        "codes": "the_8th_evil_pig_bag"
+        "codes": "event_the_8th_evil_pig_bag"
     },
     {
         "name": "The 10 Math Beads",
         "type": "toggle",
         "img": "images/events/the_10_math_beads.gif",
-        "codes": "the_10_math_beads"
+        "codes": "event_the_10_math_beads"
     },
     {
         "name": "The 100 Flower Forest",
         "type": "toggle",
         "img": "images/events/the_100_flower_forest.gif",
-        "codes": "the_100_flower_forest"
+        "codes": "event_the_hundred_flower_forest"
     },
     {
         "name": "The 100 Year Old Wise Man",
         "type": "toggle",
         "img": "images/events/the_100_year_old_wise_man.gif",
-        "codes": "the_100_year_old_wise_man"
+        "codes": "event_the_hundred_year_old_wise_man"
     },
     {
         "name": "The 1,000 Year Old Man?",
         "type": "toggle",
         "img": "images/events/the_1000_year_old_man.gif",
-        "codes": "the_1000_year_old_man"
+        "codes": "event_the_thousand_year_old_man"
     },
     {
         "name": "The 10,000 Year Old Man",
         "type": "toggle",
         "img": "images/events/the_10000_year_old_man.gif",
-        "codes": "the_10000_year_old_man"
+        "codes": "event_the_ten_thousand_year_old_man"
     },
     {
         "name": "To Phoenix Mountain...",
         "type": "toggle",
         "img": "images/events/to_phoenix_mountain.gif",
-        "codes": "to_phoenix_mountain"
+        "codes": "event_to_phoenix_mountain"
     },
     {
         "name": "Treasures from the Mansion?",
         "type": "toggle",
         "img": "images/events/treasures_from_the_mansion.gif",
-        "codes": "treasures_from_the_mansion"
+        "codes": "event_treasures_from_the_mansion"
     },
     {
         "name": "Tree of Knowledge Knows",
         "type": "toggle",
         "img": "images/events/tree_of_knowledge_knows.gif",
-        "codes": "tree_of_knowledge_knows"
+        "codes": "event_tree_of_knowledge_knows"
     },
     {
         "name": "Trick Village",
         "type": "toggle",
         "img": "images/events/trick_village.gif",
-        "codes": "trick_village"
+        "codes": "event_trick_village"
     },
     {
         "name": "Unbreakable Wire",
         "type": "toggle",
         "img": "images/events/unbreakable_wire.gif",
-        "codes": "unbreakable_wire"
+        "codes": "event_unbreakable_wire"
     },
     {
         "name": "Underground Treasure",
         "type": "toggle",
         "img": "images/events/underground_treasure.gif",
-        "codes": "underground_treasure"
+        "codes": "event_underground_treasure"
     },
     {
         "name": "We Need Power...",
         "type": "toggle",
         "img": "images/events/we_need_power.gif",
-        "codes": "we_need_power"
+        "codes": "event_we_need_power"
     },
     {
         "name": "What is this?",
         "type": "toggle",
         "img": "images/events/what_is_this.gif",
-        "codes": "what_is_this"
+        "codes": "event_what_is_this"
     },
     {
         "name": "What the Thief Forgot",
         "type": "toggle",
         "img": "images/events/what_the_thief_forgot.gif",
-        "codes": "what_the_thief_forgot"
+        "codes": "event_what_the_thief_forgot"
     },
     {
         "name": "What the Witch Lost...",
         "type": "toggle",
         "img": "images/events/what_the_witch_lost.gif",
-        "codes": "what_the_witch_lost"
+        "codes": "event_what_the_witch_lost"
     },
     {
         "name": "What's a Funga?",
         "type": "toggle",
         "img": "images/events/whats_a_funga.gif",
-        "codes": "whats_a_funga"
+        "codes": "event_whats_a_funga"
     },
     {
         "name": "What's Under the Forest?",
         "type": "toggle",
         "img": "images/events/whats_under_the_forest.gif",
-        "codes": "whats_under_the_forest"
+        "codes": "event_whats_under_the_forest"
     },
     {
         "name": "What's Underwater?",
         "type": "toggle",
         "img": "images/events/whats_underwater.gif",
-        "codes": "whats_underwater"
+        "codes": "event_whats_underwater"
     },
     {
         "name": "When the Wind Dies Down...",
         "type": "toggle",
         "img": "images/events/when_the_wind_dies_down.gif",
-        "codes": "when_the_wind_dies_down"
+        "codes": "event_when_the_wind_dies_down"
     },
     {
         "name": "Where did I come from?",
         "type": "toggle",
         "img": "images/events/where_did_I_come_from.gif",
-        "codes": "where_did_i_come_from"
+        "codes": "event_where_did_i_come_from"
     },
     {
         "name": "Where The Barrel Rolls...",
         "type": "toggle",
         "img": "images/events/where_the_barrel_rolls.gif",
-        "codes": "where_the_barrel_rolls"
+        "codes": "event_where_the_barrel_rolls"
     },
     {
         "name": "Where'd the Lights Go?",
         "type": "toggle",
         "img": "images/events/whered_the_lights_go.gif",
-        "codes": "whered_the_lights_go"
+        "codes": "event_whered_the_lights_go"
     },
     {
         "name": "Where's the Baby Mouse?",
         "type": "toggle",
         "img": "images/events/wheres_the_baby_mouse.gif",
-        "codes": "wheres_the_baby_mouse"
+        "codes": "event_wheres_the_baby_mouse"
     },
     {
         "name": "Who are You?",
         "type": "toggle",
         "img": "images/events/who_are_you.gif",
-        "codes": "who_are_you"
+        "codes": "event_who_are_you"
     }
 ]
