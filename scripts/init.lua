@@ -20,6 +20,9 @@ Tracker:AddLayouts("layouts/items.json")
 
 Tracker:AddLayouts("layouts/tracker.json")
 
+-- Locations
+Tracker:AddLocations("locations/locations.json")
+
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then
     ScriptHost:LoadScript("scripts/autotracking.lua")

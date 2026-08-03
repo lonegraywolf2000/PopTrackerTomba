@@ -462,6 +462,12 @@
         "codes": "event_the_ap_box"
     },
     {
+        "name": "The Civilization Machine",
+        "type": "toggle",
+        "img": "images/events/the_civilization_machine.gif",
+        "codes": "event_the_civilization_machine"
+    },
+    {
         "name": "The Blue Fortune Teller",
         "type": "toggle",
         "img": "images/events/the_blue_fortune_teller.gif",
@@ -578,8 +584,8 @@
     {
         "name": "The Pump Rocks",
         "type": "toggle",
-        "img": "images/events/the_pumps_rocks.gif",
-        "codes": "event_the_pumps_rocks"
+        "img": "images/events/the_pump_rocks.gif",
+        "codes": "event_the_pump_rocks"
     },
     {
         "name": "The Red Fortune Teller",
