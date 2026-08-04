@@ -82,6 +82,15 @@
                         "underground_maze"
                     ]
                 }
+            },
+            {
+                "title": "Dirt Motocross",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "dirt_motocross"
+                    ]
+                }
             }
         ]
     }

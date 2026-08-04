@@ -406,6 +406,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 2689,
+                "y": 1515,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -416,6 +423,13 @@
     {
         "name": "Campfire",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 2100,
+                "y": 1984,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -426,6 +440,13 @@
     {
         "name": "Hidden Chest Wing 1",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1547,
+                "y": 1660,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -436,6 +457,13 @@
     {
         "name": "Hidden Chest Wing 2",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1585,
+                "y": 1660,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -446,6 +474,13 @@
     {
         "name": "On Top of the Spikes",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3443,
+                "y": 1483,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -456,6 +491,13 @@
     {
         "name": "1Up 1",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4795,
+                "y": 950,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -466,6 +508,13 @@
     {
         "name": "1Up 2",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4835,
+                "y": 950,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -476,6 +525,13 @@
     {
         "name": "Top of Watch Tower",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3766,
+                "y": 91,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -486,6 +542,13 @@
     {
         "name": "Push the Boulder",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3246,
+                "y": 760,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -496,6 +559,13 @@
     {
         "name": "Find the seeds",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3312,
+                "y": 676,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -506,6 +576,13 @@
     {
         "name": "Tower Pants",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3791,
+                "y": 1231,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -516,6 +593,13 @@
     {
         "name": "10,000 Year Chest",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3268,
+                "y": 700,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -526,6 +610,13 @@
     {
         "name": "Million Year Chest",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4409,
+                "y": 383,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -536,6 +627,13 @@
     {
         "name": "Fill the Bucket",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4194,
+                "y": 1135,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -546,6 +644,13 @@
     {
         "name": "Win the Race",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3749,
+                "y": 203,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -556,6 +661,13 @@
     {
         "name": "On top of the Pole",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1628,
+                "y": 1055,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -566,6 +678,13 @@
     {
         "name": "Baron",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4647,
+                "y": 1588,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -576,6 +695,13 @@
     {
         "name": "Rescue the Child",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4509,
+                "y": 1696,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -586,6 +712,13 @@
     {
         "name": "Meet the Dwarf Elder",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4934,
+                "y": 1685,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -596,6 +729,13 @@
     {
         "name": "Plant a Garden",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 5002,
+                "y": 1739,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -606,6 +746,13 @@
     {
         "name": "1,000 Year Chest",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4644,
+                "y": 1535,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -616,6 +763,13 @@
     {
         "name": "Fire Starter",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4596,
+                "y": 1675,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -626,6 +780,13 @@
     {
         "name": "Jail",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 5094,
+                "y": 1919,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -636,6 +797,13 @@
     {
         "name": "AP Box",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 809,
+                "y": 1170,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -646,6 +814,13 @@
     {
         "name": "Tear Jar",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 2731,
+                "y": 915,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -656,6 +831,13 @@
     {
         "name": "1,000 Year Chest 1",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 2582,
+                "y": 793,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -666,6 +848,13 @@
     {
         "name": "1,000 Year Chest 2",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1073,
+                "y": 586,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -676,6 +865,13 @@
     {
         "name": "1,000 Year Chest near the Stairs",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 422,
+                "y": 1072,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -686,6 +882,13 @@
     {
         "name": "1,000 Year Chest in the Pit",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1670,
+                "y": 1103,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -696,6 +899,13 @@
     {
         "name": "10,000 Year Chest",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1347,
+                "y": 1017,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -706,6 +916,13 @@
     {
         "name": "Chest near the Spikes",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 2867,
+                "y": 970,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -716,6 +933,13 @@
     {
         "name": "1Up",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1989,
+                "y": 596,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -726,6 +950,13 @@
     {
         "name": "1Up 1,000 Year Old 1",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 2378,
+                "y": 1144,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -736,6 +967,13 @@
     {
         "name": "1Up 1,000 Year Old 2",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 2005,
+                "y": 1054,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -746,6 +984,13 @@
     {
         "name": "1Up Million Year Old 1",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1490,
+                "y": 1018,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -756,6 +1001,13 @@
     {
         "name": "1Up Million Year Old 2",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1525,
+                "y": 1017,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -766,6 +1018,13 @@
     {
         "name": "1Up 10,000 Year Old",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 1232,
+                "y": 1058,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -776,6 +1035,13 @@
     {
         "name": "Monster Fight",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 2729,
+                "y": 856,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -786,6 +1052,13 @@
     {
         "name": "Sacred Fish",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1549,
+                "y": 230,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -796,6 +1069,13 @@
     {
         "name": "Crystal Balls",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 306,
+                "y": 420,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -806,6 +1086,13 @@
     {
         "name": "1Up 1",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1050,
+                "y": 380,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -816,6 +1103,13 @@
     {
         "name": "1Up 2",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1092,
+                "y": 381,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -826,6 +1120,13 @@
     {
         "name": "Charity Entrance Left",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1554,
+                "y": 626,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -836,6 +1137,13 @@
     {
         "name": "Charity Entrance Right",
         "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1587,
+                "y": 627,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -846,6 +1154,13 @@
     {
         "name": "Familiar Beach",
         "map_locations": [
+            {
+                "map": "mushroom_forest",
+                "x": 666,
+                "y": 415,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -856,6 +1171,13 @@
     {
         "name": "100 Year Old Chest",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2601,
+                "y": 1630,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -866,6 +1188,13 @@
     {
         "name": "1,000 Year Old Chest",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 1305,
+                "y": 1517,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -876,6 +1205,13 @@
     {
         "name": "Million Year Old Chest",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2551,
+                "y": 1076,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -886,6 +1222,13 @@
     {
         "name": "1Up 1,000 Year Old 1",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 1660,
+                "y": 1020,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -896,6 +1239,13 @@
     {
         "name": "1Up 1,000 Year Old 2",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 1695,
+                "y": 1021,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -906,6 +1256,13 @@
     {
         "name": "1Up 10,000 Year Old 1",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2188,
+                "y": 938,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -916,6 +1273,13 @@
     {
         "name": "1Up 10,000 Year Old 2",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2222,
+                "y": 937,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -926,6 +1290,13 @@
     {
         "name": "Smile Wing",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2810,
+                "y": 915,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -936,6 +1307,13 @@
     {
         "name": "Funga",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 1705,
+                "y": 1198,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -946,6 +1324,13 @@
     {
         "name": "Dig",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2831,
+                "y": 1079,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -956,6 +1341,13 @@
     {
         "name": "When the Wind Dies Down",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 2868,
+                "y": 740,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -966,6 +1358,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 3449,
+                "y": 634,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -976,6 +1375,13 @@
     {
         "name": "Big Keyhole",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 3755,
+                "y": 795,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -986,6 +1392,13 @@
     {
         "name": "Herbs",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 3435,
+                "y": 747,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -996,6 +1409,13 @@
     {
         "name": "Give back the Pants",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 1871,
+                "y": 1678,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1006,6 +1426,13 @@
     {
         "name": "Phoenix Pants",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 3623,
+                "y": 822,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1016,6 +1443,13 @@
     {
         "name": "100 Year Old Chest Wing 1",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 4497,
+                "y": 215,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1026,6 +1460,13 @@
     {
         "name": "100 Year Old Chest Wing 2",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 4531,
+                "y": 214,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1036,6 +1477,13 @@
     {
         "name": "1,000 Year Old Grapple",
         "map_locations": [
+            {
+                "map": "phoenix_mountain",
+                "x": 4770,
+                "y": 417,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1046,6 +1494,13 @@
     {
         "name": "Charle's Pant",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 128,
+                "y": 1584,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1056,6 +1511,13 @@
     {
         "name": "Green Evil Pig Bag Chest",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 213,
+                "y": 1584,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1066,6 +1528,13 @@
     {
         "name": "Bunk Flower 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 558,
+                "y": 1334,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1076,6 +1545,13 @@
     {
         "name": "Bunk Flower 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1126,
+                "y": 1085,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1086,6 +1562,13 @@
     {
         "name": "Bunk Flower 3",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1280,
+                "y": 1236,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1096,6 +1579,13 @@
     {
         "name": "Bunk Flower 4",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1944,
+                "y": 886,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1106,6 +1596,13 @@
     {
         "name": "Bunk Flower 5",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2221,
+                "y": 862,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1116,6 +1613,13 @@
     {
         "name": "Bunk Flower 6",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2269,
+                "y": 1231,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1126,6 +1630,13 @@
     {
         "name": "Bunk Flower 7",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2612,
+                "y": 705,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1136,6 +1647,13 @@
     {
         "name": "Leave Hidden Village",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1743,
+                "y": 539,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1146,6 +1664,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2828,
+                "y": 1175,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1156,6 +1681,13 @@
     {
         "name": "1Up 100 Year 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2113,
+                "y": 764,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1166,6 +1698,13 @@
     {
         "name": "1Up 1,000 Year Down",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2360,
+                "y": 1214,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1176,6 +1715,13 @@
     {
         "name": "1Up 1,000 Year 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2348,
+                "y": 794,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1186,6 +1732,13 @@
     {
         "name": "1Up 1,000 Year 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2388,
+                "y": 794,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1196,6 +1749,13 @@
     {
         "name": "1Up 10,000 Year Up",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2687,
+                "y": 793,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1206,6 +1766,13 @@
     {
         "name": "1Up 10,000 Year Down",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2521,
+                "y": 1163,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1216,6 +1783,13 @@
     {
         "name": "1Up Million Year 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2524,
+                "y": 1279,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1226,6 +1800,13 @@
     {
         "name": "1Up Million Year 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2566,
+                "y": 1278,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1236,6 +1817,13 @@
     {
         "name": "In Lava Caves Alcove",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 920,
+                "y": 1015,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1246,6 +1834,13 @@
     {
         "name": "10,000 Year Charity Wing 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1801,
+                "y": 1238,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1256,6 +1851,13 @@
     {
         "name": "10,000 Year Charity Wing 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1842,
+                "y": 1237,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1266,6 +1868,13 @@
     {
         "name": "1,000 Year Charity Wing 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1702,
+                "y": 852,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1276,6 +1885,13 @@
     {
         "name": "1,000 Year Charity Wing 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1735,
+                "y": 851,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1286,6 +1902,13 @@
     {
         "name": "Million Year Large Lunch",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 2274,
+                "y": 899,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1296,6 +1919,13 @@
     {
         "name": "100 Year Lunch",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 1851,
+                "y": 748,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1306,6 +1936,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4120,
+                "y": 357,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1316,6 +1953,13 @@
     {
         "name": "Some Cheese 1",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4763,
+                "y": 345,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1326,6 +1970,13 @@
     {
         "name": "Some Cheese 2",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4802,
+                "y": 345,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1336,6 +1987,13 @@
     {
         "name": "More Cheese",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4764,
+                "y": 390,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1346,6 +2004,13 @@
     {
         "name": "Grownups",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4119,
+                "y": 403,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1356,6 +2021,13 @@
     {
         "name": "Give the Baby Pig",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4259,
+                "y": 288,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1366,6 +2038,13 @@
     {
         "name": "Weed Killer",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4121,
+                "y": 440,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1376,6 +2055,13 @@
     {
         "name": "Central Park Chest",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4566,
+                "y": 483,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1386,6 +2072,13 @@
     {
         "name": "Baccus Wine",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4591,
+                "y": 338,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1396,6 +2089,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2062,
+                "y": 1243,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1406,6 +2106,13 @@
     {
         "name": "Unbreakable Wire",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4287,
+                "y": 928,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1416,6 +2123,13 @@
     {
         "name": "100 Year Old Chest 1",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 885,
+                "y": 953,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1426,6 +2140,13 @@
     {
         "name": "100 Year Old Chest 2",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 922,
+                "y": 953,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1436,6 +2157,13 @@
     {
         "name": "What's Underwater ?",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 3957,
+                "y": 1232,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1446,6 +2174,13 @@
     {
         "name": "1,000 Year Old Chest near Yan",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 1013,
+                "y": 936,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1456,6 +2191,13 @@
     {
         "name": "1,000 Year Old Chest 1",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4810,
+                "y": 1167,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1466,6 +2208,13 @@
     {
         "name": "10,000 Year Old Chest 1",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 1821,
+                "y": 1178,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1476,6 +2225,13 @@
     {
         "name": "Millions Year Old Chest 1",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 754,
+                "y": 1153,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1486,6 +2242,13 @@
     {
         "name": "Cry Cheese Left",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2951,
+                "y": 1175,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1496,6 +2259,13 @@
     {
         "name": "Cry Cheese Right",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2985,
+                "y": 1177,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1506,6 +2276,13 @@
     {
         "name": "Pink Evil Bag",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2315,
+                "y": 742,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1516,6 +2293,13 @@
     {
         "name": "Near the Magic Egg",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2437,
+                "y": 646,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1526,6 +2310,13 @@
     {
         "name": "Save the Villager",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4256,
+                "y": 1210,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1536,6 +2327,13 @@
     {
         "name": "Near the Million Year Old Chest",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 590,
+                "y": 1188,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1546,6 +2344,13 @@
     {
         "name": "Near the Healing Fountain",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4204,
+                "y": 989,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1556,6 +2361,13 @@
     {
         "name": "Near the Siren",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 3908,
+                "y": 1076,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1566,6 +2378,13 @@
     {
         "name": "On the Elevator",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2844,
+                "y": 882,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1576,6 +2395,13 @@
     {
         "name": "Near the Forest Ping Entrance",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 1967,
+                "y": 633,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1586,6 +2412,13 @@
     {
         "name": "In the Chimney",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 2014,
+                "y": 353,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1596,6 +2429,13 @@
     {
         "name": "Save the Old Man",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 4636,
+                "y": 1044,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1606,6 +2446,13 @@
     {
         "name": "Thief in the Chimney 1",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 3204,
+                "y": 1280,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1616,6 +2463,13 @@
     {
         "name": "Thief in the Chimney 2",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 3245,
+                "y": 1279,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1626,6 +2480,13 @@
     {
         "name": "Stone Boomerang",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 3961,
+                "y": 996,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1636,6 +2497,13 @@
     {
         "name": "Painting of a Big Key",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 1693,
+                "y": 928,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1646,6 +2514,13 @@
     {
         "name": "Pipe",
         "map_locations": [
+            {
+                "map": "baccus_village",
+                "x": 1463,
+                "y": 207,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1656,6 +2531,13 @@
     {
         "name": "Green Jewel",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 3842,
+                "y": 86,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1666,6 +2548,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 2362,
+                "y": 1641,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1676,6 +2565,13 @@
     {
         "name": "Get the Drum",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1064,
+                "y": 2278,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1686,6 +2582,13 @@
     {
         "name": "Leaf Butterfly 1",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1274,
+                "y": 2184,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1696,6 +2599,13 @@
     {
         "name": "Leaf Butterfly 2",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1275,
+                "y": 2216,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1706,6 +2616,13 @@
     {
         "name": "Leaf Butterfly 3",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1275,
+                "y": 2251,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1716,6 +2633,13 @@
     {
         "name": "Leaf Butterfly 4",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1275,
+                "y": 2287,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1726,6 +2650,13 @@
     {
         "name": "Bananas",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 3853,
+                "y": 1985,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1736,6 +2667,13 @@
     {
         "name": "Coconut Tree",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 2069,
+                "y": 1683,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1746,6 +2684,13 @@
     {
         "name": "Funga Pants",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1935,
+                "y": 2272,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1756,6 +2701,13 @@
     {
         "name": "100 Year Old Chest",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 2605,
+                "y": 1748,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1766,6 +2718,13 @@
     {
         "name": "Drown a Second Time",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 4779,
+                "y": 2227,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1776,6 +2735,13 @@
     {
         "name": "Old Tree",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 3583,
+                "y": 428,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1786,6 +2752,13 @@
     {
         "name": "Navy Evil Pig Bag",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 4136,
+                "y": 596,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1796,6 +2769,13 @@
     {
         "name": "Mixer",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 2307,
+                "y": 888,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1806,6 +2786,13 @@
     {
         "name": "Bassement",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 979,
+                "y": 1181,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1816,6 +2803,13 @@
     {
         "name": "Build a Raft",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 994,
+                "y": 924,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1826,6 +2820,13 @@
     {
         "name": "Fuel Bar",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 890,
+                "y": 924,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1836,6 +2837,13 @@
     {
         "name": "Need Power",
         "map_locations": [
+            {
+                "map": "masakari_jungle",
+                "x": 1653,
+                "y": 637,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1846,6 +2854,13 @@
     {
         "name": "Find my Son",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 892,
+                "y": 324,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1856,6 +2871,13 @@
     {
         "name": "Golden Butterfly",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 985,
+                "y": 99,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1866,6 +2888,13 @@
     {
         "name": "Hungry but not for Cheese 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 943,
+                "y": 182,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1876,6 +2905,13 @@
     {
         "name": "Hungry but not for Cheese 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 979,
+                "y": 183,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1886,6 +2922,13 @@
     {
         "name": "Vitality Increase",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 943,
+                "y": 815,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1896,6 +2939,13 @@
     {
         "name": "1Up 1",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1495,
+                "y": 1487,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1906,6 +2956,13 @@
     {
         "name": "1Up 2",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1530,
+                "y": 1486,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1916,6 +2973,13 @@
     {
         "name": "On Top of Water",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1774,
+                "y": 589,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1926,6 +2990,13 @@
     {
         "name": "Left 1,000 Wing",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 721,
+                "y": 1369,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1936,6 +3007,13 @@
     {
         "name": "Right 1,000 Wing",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 946,
+                "y": 1258,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1946,6 +3024,13 @@
     {
         "name": "Rock Bottom",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1287,
+                "y": 1486,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1956,6 +3041,13 @@
     {
         "name": "Yellow Pig Bag",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1744,
+                "y": 1267,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1966,6 +3058,13 @@
     {
         "name": "Math Bead 1",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 704,
+                "y": 1469,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1976,6 +3075,13 @@
     {
         "name": "Math Bead 2",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 697,
+                "y": 923,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1986,6 +3092,13 @@
     {
         "name": "Math Bead 3",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1885,
+                "y": 1488,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -1996,6 +3109,13 @@
     {
         "name": "Math Bead 4",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1290,
+                "y": 1324,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2006,6 +3126,13 @@
     {
         "name": "Math Bead 5",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1900,
+                "y": 935,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2016,6 +3143,13 @@
     {
         "name": "Math Bead 6",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1892,
+                "y": 1266,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2026,6 +3160,13 @@
     {
         "name": "Math Bead 7",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1202,
+                "y": 1490,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2036,6 +3177,13 @@
     {
         "name": "Math Bead 8",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1171,
+                "y": 1036,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2046,6 +3194,13 @@
     {
         "name": "Math Bead 9",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1524,
+                "y": 933,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2056,6 +3211,13 @@
     {
         "name": "Math Bead 10",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 698,
+                "y": 1156,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2066,6 +3228,13 @@
     {
         "name": "Blue Jewel",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1422,
+                "y": 1476,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2076,6 +3245,13 @@
     {
         "name": "Collect the Beads Key",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1451,
+                "y": 278,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2086,6 +3262,13 @@
     {
         "name": "Collect the Beads Wire",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1449,
+                "y": 230,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2096,6 +3279,13 @@
     {
         "name": "5 Golden Items",
         "map_locations": [
+            {
+                "map": "trick_village",
+                "x": 1380,
+                "y": 211,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2106,6 +3296,13 @@
     {
         "name": "100 Year Old Cheese",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 1132,
+                "y": 368,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2116,6 +3313,13 @@
     {
         "name": "Needlegator Teeth",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 1218,
+                "y": 1013,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2126,6 +3330,13 @@
     {
         "name": "Medecine",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 885,
+                "y": 1213,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2136,6 +3347,13 @@
     {
         "name": "10,000 Year Old Cheese",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 816,
+                "y": 986,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2146,6 +3364,13 @@
     {
         "name": "100 Year Old Cheese 1",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 847,
+                "y": 495,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2156,6 +3381,13 @@
     {
         "name": "100 Year Old Cheese 2",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 880,
+                "y": 496,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2166,6 +3398,13 @@
     {
         "name": "1,000 Year Old Lunch",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 932,
+                "y": 495,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2176,6 +3415,13 @@
     {
         "name": "10,000 Year Old Claw",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 894,
+                "y": 544,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2186,6 +3432,13 @@
     {
         "name": "Butamashi Thorn",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 243,
+                "y": 1015,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2196,6 +3449,13 @@
     {
         "name": "100 Year Old Wing 1",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 586,
+                "y": 940,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2206,6 +3466,13 @@
     {
         "name": "100 Year Old Wing 2",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 620,
+                "y": 941,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2216,6 +3483,13 @@
     {
         "name": "1,000 Year Old Cheese 1",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 423,
+                "y": 786,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2226,6 +3500,13 @@
     {
         "name": "1,000 Year Old Cheese 2",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 455,
+                "y": 786,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2236,6 +3517,13 @@
     {
         "name": "10,000 Year Old Wing 1",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 332,
+                "y": 687,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2246,6 +3534,13 @@
     {
         "name": "10,000 Year Old Wing 2",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 367,
+                "y": 687,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2256,6 +3551,13 @@
     {
         "name": "100 Year Old Lunch",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 305,
+                "y": 639,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2266,6 +3568,13 @@
     {
         "name": "Biting Plant Flower",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 345,
+                "y": 600,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2276,6 +3585,13 @@
     {
         "name": "Near the Small Strange Room 1",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 105,
+                "y": 366,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2286,6 +3602,13 @@
     {
         "name": "Million Year Old Key",
         "map_locations": [
+            {
+                "map": "underground_maze",
+                "x": 1526,
+                "y": 238,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2296,6 +3619,13 @@
     {
         "name": "Bronze Medal",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 3014,
+                "y": 1836,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2306,6 +3636,13 @@
     {
         "name": "Silver Medal",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 3018,
+                "y": 1916,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2316,6 +3653,13 @@
     {
         "name": "Gold Medal",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 3017,
+                "y": 1991,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2326,6 +3670,13 @@
     {
         "name": "Flying Wing Leftmost",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 1555,
+                "y": 723,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2336,6 +3687,13 @@
     {
         "name": "Flying Wing Rightmost",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 1863,
+                "y": 657,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2346,6 +3704,13 @@
     {
         "name": "In the House",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 2199,
+                "y": 624,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2356,6 +3721,13 @@
     {
         "name": "In the back House",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 2156,
+                "y": 574,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2366,6 +3738,13 @@
     {
         "name": "Lunch Box",
         "map_locations": [
+            {
+                "map": "dirt_motocross",
+                "x": 1650,
+                "y": 832,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2376,6 +3755,13 @@
     {
         "name": "Take Out 1",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 670,
+                "y": 61,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {
@@ -2386,6 +3772,13 @@
     {
         "name": "Take Out 2",
         "map_locations": [
+            {
+                "map": "lava_caves",
+                "x": 719,
+                "y": 61,
+                "size": 30,
+                "shape": "rect"
+            }
         ],
         "sections": [
             {

@@ -52,5 +52,11 @@
     "location_size": 48,
     "location_border_thickness": 4,
     "img": "images/maps/underground_maze.png"
+  },
+  {
+    "name": "dirt_motocross",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/dirt_motocross.jpg"
   }
 ]

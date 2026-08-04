@@ -1,0 +1,2259 @@
+[
+    {
+        "name": "Mizuno's House",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 290,
+                "y": 739,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "What the Witch Lost (Village Of All Beginnings)"
+            },
+            {
+                "name": "Magic Mirror (Village Of All Beginnings)"
+            },
+            {
+                "name": "Make Candy (Village Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Mailbox",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 180,
+                "y": 1535,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Mailbox (Village Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Peach Flower Gas",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 766,
+                "y": 1562,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Peach Flower Gas (Village Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Kokka Egg in the Village",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 1051,
+                "y": 1461,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Kokka Egg in the Village (Village Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Chest in the Tree",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 884,
+                "y": 1386,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "100 Year Chest in the Tree (Village Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2177,
+                "y": 976,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Vitality Increase (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Biting Plant",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2041,
+                "y": 1469,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Biting Plant (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Chest",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2106,
+                "y": 1415,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "10,000 Year Chest (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Kokka Egg after the Fog 1",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2237,
+                "y": 1519,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Kokka Egg after the Fog 1 (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Kokka Egg after the Fog 2",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2520,
+                "y": 1100,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Kokka Egg after the Fog 2 (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Kokka Egg near the Top",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2938,
+                "y": 577,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Kokka Egg near the Top (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Chest near the Hut",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 2442,
+                "y": 315,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "100 Year Chest near the Hut (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "1Up",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 835,
+                "y": 584,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1Up (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Reward",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 1496,
+                "y": 318,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "100 Year Old Reward (Forest Of All Beginnings)"
+            }
+        ]
+    },
+    {
+        "name": "Drown",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 1144,
+                "y": 479,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Drown (Ol' Pond)"
+            }
+        ]
+    },
+    {
+        "name": "AP Box",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 766,
+                "y": 551,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "AP Box (Ol' Pond)"
+            }
+        ]
+    },
+    {
+        "name": "1Up",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 835,
+                "y": 584,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1Up 1 (Ol' Pond)"
+            },
+            {
+                "name": "1Up 2 (Ol' Pond)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Old Chest",
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 1252,
+                "y": 544,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "10,000 Year Old Chest (Ol' Pond)"
+            }
+        ]
+    },
+    {
+        "name": "Leaf Butterflies",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1321,
+                "y": 1944,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Leaf Butterfly 1 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 2 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 3 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 4 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 5 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 6 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 7 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 8 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 9 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 10 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 11 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 12 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 13 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 14 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 15 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 16 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 17 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 18 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 19 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 20 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 21 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 22 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 23 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 24 (Forest Of 100 Flowers)"
+            },
+            {
+                "name": "Leaf Butterfly 25 (Forest Of 100 Flowers)"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 2689,
+                "y": 1515,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Vitality Increase (Forest Of 100 Flowers)"
+            }
+        ]
+    },
+    {
+        "name": "Campfire",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 2100,
+                "y": 1984,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Campfire (Forest Of 100 Flowers)"
+            }
+        ]
+    },
+    {
+        "name": "Hidden Chest Wing 1",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1547,
+                "y": 1660,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Hidden Chest Wing 1 (Forest Of 100 Flowers)"
+            }
+        ]
+    },
+    {
+        "name": "Hidden Chest Wing 2",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1585,
+                "y": 1660,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Hidden Chest Wing 2 (Forest Of 100 Flowers)"
+            }
+        ]
+    },
+    {
+        "name": "On Top of the Spikes",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3443,
+                "y": 1483,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "On Top of the Spikes (Forest Of 100 Flowers)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4795,
+                "y": 950,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1Up 1 (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 2",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4835,
+                "y": 950,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1Up 2 (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Top of Watch Tower",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3766,
+                "y": 91,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Top of Watch Tower (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Push the Boulder",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3246,
+                "y": 760,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Push the Boulder (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Find the seeds",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3312,
+                "y": 676,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Find the seeds (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Tower Pants",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3791,
+                "y": 1231,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Tower Pants (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Chest",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3268,
+                "y": 700,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "10,000 Year Chest (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Million Year Chest",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4409,
+                "y": 383,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Million Year Chest (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Fill the Bucket",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4194,
+                "y": 1135,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Fill the Bucket (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Win the Race",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 3749,
+                "y": 203,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Win the Race (Watch Tower)"
+            }
+        ]
+    },
+    {
+        "name": "On top of the Pole",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1628,
+                "y": 1055,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "On top of the Pole (Whobbly Warf)"
+            }
+        ]
+    },
+    {
+        "name": "Baron",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4647,
+                "y": 1588,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Baron (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "Rescue the Child",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4509,
+                "y": 1696,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Rescue the Child (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "Meet the Dwarf Elder",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4934,
+                "y": 1685,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Meet the Dwarf Elder (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "Plant a Garden",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 5002,
+                "y": 1739,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Plant a Garden (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Chest",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4644,
+                "y": 1535,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1,000 Year Chest (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "Fire Starter",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 4596,
+                "y": 1675,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Fire Starter (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "Jail",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 5094,
+                "y": 1919,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Jail (Dwarf Village)"
+            }
+        ]
+    },
+    {
+        "name": "AP Box",
+        "sections": [
+            {
+                "name": "AP Box (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "Tear Jar",
+        "sections": [
+            {
+                "name": "Tear Jar (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Chest 1",
+        "sections": [
+            {
+                "name": "1,000 Year Chest 1 (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Chest 2",
+        "sections": [
+            {
+                "name": "1,000 Year Chest 2 (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Chest near the Stairs",
+        "sections": [
+            {
+                "name": "1,000 Year Chest near the Stairs (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Chest in the Pit",
+        "sections": [
+            {
+                "name": "1,000 Year Chest in the Pit (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Chest",
+        "sections": [
+            {
+                "name": "10,000 Year Chest (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "Chest near the Spikes",
+        "sections": [
+            {
+                "name": "Chest near the Spikes (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1Up",
+        "sections": [
+            {
+                "name": "1Up (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year Old 1",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year Old 1 (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year Old 2",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year Old 2 (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1Up Million Year Old 1",
+        "sections": [
+            {
+                "name": "1Up Million Year Old 1 (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1Up Million Year Old 2",
+        "sections": [
+            {
+                "name": "1Up Million Year Old 2 (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 10,000 Year Old",
+        "sections": [
+            {
+                "name": "1Up 10,000 Year Old (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "Monster Fight",
+        "sections": [
+            {
+                "name": "Monster Fight (Mushroom Forest)"
+            }
+        ]
+    },
+    {
+        "name": "Sacred Fish",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1549,
+                "y": 230,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Sacred Fish (Charity Square)"
+            }
+        ]
+    },
+    {
+        "name": "Crystal Balls",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 306,
+                "y": 420,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Crystal Balls (Charity Square)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1050,
+                "y": 380,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1Up 1 (Charity Square)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 2",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1092,
+                "y": 381,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "1Up 2 (Charity Square)"
+            }
+        ]
+    },
+    {
+        "name": "Charity Entrance Left",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1554,
+                "y": 626,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Charity Entrance Left (Charity Square)"
+            }
+        ]
+    },
+    {
+        "name": "Charity Entrance Right",
+        "map_locations": [
+            {
+                "map": "dwarf_forest",
+                "x": 1587,
+                "y": 627,
+                "size": 30,
+                "shape": "rect"
+            }
+        ],
+        "sections": [
+            {
+                "name": "Charity Entrance Right (Charity Square)"
+            }
+        ]
+    },
+    {
+        "name": "Familiar Beach",
+        "sections": [
+            {
+                "name": "Familiar Beach (Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Chest",
+        "sections": [
+            {
+                "name": "100 Year Old Chest (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Chest",
+        "sections": [
+            {
+                "name": "1,000 Year Old Chest (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Million Year Old Chest",
+        "sections": [
+            {
+                "name": "Million Year Old Chest (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year Old 1",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year Old 1 (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year Old 2",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year Old 2 (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 10,000 Year Old 1",
+        "sections": [
+            {
+                "name": "1Up 10,000 Year Old 1 (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 10,000 Year Old 2",
+        "sections": [
+            {
+                "name": "1Up 10,000 Year Old 2 (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Smile Wing",
+        "sections": [
+            {
+                "name": "Smile Wing (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Funga",
+        "sections": [
+            {
+                "name": "Funga (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Dig",
+        "sections": [
+            {
+                "name": "Dig (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "When the Wind Dies Down",
+        "sections": [
+            {
+                "name": "When the Wind Dies Down (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "sections": [
+            {
+                "name": "Vitality Increase (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Big Keyhole",
+        "sections": [
+            {
+                "name": "Big Keyhole (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Herbs",
+        "sections": [
+            {
+                "name": "Herbs (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Give back the Pants",
+        "sections": [
+            {
+                "name": "Give back the Pants (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Phoenix Pants",
+        "sections": [
+            {
+                "name": "Phoenix Pants (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Chest Wing 1",
+        "sections": [
+            {
+                "name": "100 Year Old Chest Wing 1 (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Chest Wing 2",
+        "sections": [
+            {
+                "name": "100 Year Old Chest Wing 2 (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Grapple",
+        "sections": [
+            {
+                "name": "1,000 Year Old Grapple (Stormy Mountain)"
+            }
+        ]
+    },
+    {
+        "name": "Charle's Pant",
+        "sections": [
+            {
+                "name": "Charle's Pant (Lava Caves)"
+            }
+        ]
+    },
+    {
+        "name": "Green Evil Pig Bag Chest",
+        "sections": [
+            {
+                "name": "Green Evil Pig Bag Chest (Lava Caves)"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 1",
+        "sections": [
+            {
+                "name": "Bunk Flower 1 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 2",
+        "sections": [
+            {
+                "name": "Bunk Flower 2 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 3",
+        "sections": [
+            {
+                "name": "Bunk Flower 3 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 4",
+        "sections": [
+            {
+                "name": "Bunk Flower 4 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 5",
+        "sections": [
+            {
+                "name": "Bunk Flower 5 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 6",
+        "sections": [
+            {
+                "name": "Bunk Flower 6 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Bunk Flower 7",
+        "sections": [
+            {
+                "name": "Bunk Flower 7 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Leave Hidden Village",
+        "sections": [
+            {
+                "name": "Leave Hidden Village (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "sections": [
+            {
+                "name": "Vitality Increase (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up 100 Year 1",
+        "sections": [
+            {
+                "name": "1Up 100 Year 1 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year Down",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year Down (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year 1",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year 1 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1,000 Year 2",
+        "sections": [
+            {
+                "name": "1Up 1,000 Year 2 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up 10,000 Year Up",
+        "sections": [
+            {
+                "name": "1Up 10,000 Year Up (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up 10,000 Year Down",
+        "sections": [
+            {
+                "name": "1Up 10,000 Year Down (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up Million Year 1",
+        "sections": [
+            {
+                "name": "1Up Million Year 1 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1Up Million Year 2",
+        "sections": [
+            {
+                "name": "1Up Million Year 2 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "In Lava Caves Alcove",
+        "sections": [
+            {
+                "name": "In Lava Caves Alcove (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Charity Wing 1",
+        "sections": [
+            {
+                "name": "10,000 Year Charity Wing 1 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Charity Wing 2",
+        "sections": [
+            {
+                "name": "10,000 Year Charity Wing 2 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Charity Wing 1",
+        "sections": [
+            {
+                "name": "1,000 Year Charity Wing 1 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Charity Wing 2",
+        "sections": [
+            {
+                "name": "1,000 Year Charity Wing 2 (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Million Year Large Lunch",
+        "sections": [
+            {
+                "name": "Million Year Large Lunch (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Lunch",
+        "sections": [
+            {
+                "name": "100 Year Lunch (Lava Caves (Purified))"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "sections": [
+            {
+                "name": "Vitality Increase (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "Some Cheese 1",
+        "sections": [
+            {
+                "name": "Some Cheese 1 (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "Some Cheese 2",
+        "sections": [
+            {
+                "name": "Some Cheese 2 (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "More Cheese",
+        "sections": [
+            {
+                "name": "More Cheese (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "Grownups",
+        "sections": [
+            {
+                "name": "Grownups (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "Give the Baby Pig",
+        "sections": [
+            {
+                "name": "Give the Baby Pig (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "Weed Killer",
+        "sections": [
+            {
+                "name": "Weed Killer (Baccus Village)"
+            }
+        ]
+    },
+    {
+        "name": "Central Park Chest",
+        "sections": [
+            {
+                "name": "Central Park Chest (Central Park)"
+            }
+        ]
+    },
+    {
+        "name": "Baccus Wine",
+        "sections": [
+            {
+                "name": "Baccus Wine (Central Park)"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "sections": [
+            {
+                "name": "Vitality Increase (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Unbreakable Wire",
+        "sections": [
+            {
+                "name": "Unbreakable Wire (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Chest 1",
+        "sections": [
+            {
+                "name": "100 Year Old Chest 1 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Chest 2",
+        "sections": [
+            {
+                "name": "100 Year Old Chest 2 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "What's Underwater ?",
+        "sections": [
+            {
+                "name": "What's Underwater ? (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Chest near Yan",
+        "sections": [
+            {
+                "name": "1,000 Year Old Chest near Yan (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Chest 1",
+        "sections": [
+            {
+                "name": "1,000 Year Old Chest 1 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Old Chest 1",
+        "sections": [
+            {
+                "name": "10,000 Year Old Chest 1 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Millions Year Old Chest 1",
+        "sections": [
+            {
+                "name": "Millions Year Old Chest 1 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Cry Cheese Left",
+        "sections": [
+            {
+                "name": "Cry Cheese Left (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Cry Cheese Right",
+        "sections": [
+            {
+                "name": "Cry Cheese Right (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Pink Evil Bag",
+        "sections": [
+            {
+                "name": "Pink Evil Bag (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Near the Magic Egg",
+        "sections": [
+            {
+                "name": "Near the Magic Egg (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Save the Villager",
+        "sections": [
+            {
+                "name": "Save the Villager (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Near the Million Year Old Chest",
+        "sections": [
+            {
+                "name": "Near the Million Year Old Chest (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Near the Healing Fountain",
+        "sections": [
+            {
+                "name": "Near the Healing Fountain (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Near the Siren",
+        "sections": [
+            {
+                "name": "Near the Siren (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "On the Elevator",
+        "sections": [
+            {
+                "name": "On the Elevator (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Near the Forest Ping Entrance",
+        "sections": [
+            {
+                "name": "Near the Forest Ping Entrance (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "In the Chimney",
+        "sections": [
+            {
+                "name": "In the Chimney (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Save the Old Man",
+        "sections": [
+            {
+                "name": "Save the Old Man (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Thief in the Chimney 1",
+        "sections": [
+            {
+                "name": "Thief in the Chimney 1 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Thief in the Chimney 2",
+        "sections": [
+            {
+                "name": "Thief in the Chimney 2 (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Stone Boomerang",
+        "sections": [
+            {
+                "name": "Stone Boomerang (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Painting of a Big Key",
+        "sections": [
+            {
+                "name": "Painting of a Big Key (Haunted Mansion)"
+            }
+        ]
+    },
+    {
+        "name": "Pipe",
+        "sections": [
+            {
+                "name": "Pipe (Baccus Lake)"
+            }
+        ]
+    },
+    {
+        "name": "Green Jewel",
+        "sections": [
+            {
+                "name": "Green Jewel (Phoenix's Nest)"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "sections": [
+            {
+                "name": "Vitality Increase (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Get the Drum",
+        "sections": [
+            {
+                "name": "Get the Drum (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Leaf Butterfly 1",
+        "sections": [
+            {
+                "name": "Leaf Butterfly 1 (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Leaf Butterfly 2",
+        "sections": [
+            {
+                "name": "Leaf Butterfly 2 (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Leaf Butterfly 3",
+        "sections": [
+            {
+                "name": "Leaf Butterfly 3 (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Leaf Butterfly 4",
+        "sections": [
+            {
+                "name": "Leaf Butterfly 4 (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Bananas",
+        "sections": [
+            {
+                "name": "Bananas (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Coconut Tree",
+        "sections": [
+            {
+                "name": "Coconut Tree (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Funga Pants",
+        "sections": [
+            {
+                "name": "Funga Pants (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Chest",
+        "sections": [
+            {
+                "name": "100 Year Old Chest (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Drown a Second Time",
+        "sections": [
+            {
+                "name": "Drown a Second Time (Masakari Jungle)"
+            }
+        ]
+    },
+    {
+        "name": "Old Tree",
+        "sections": [
+            {
+                "name": "Old Tree (Old Tree Hill)"
+            }
+        ]
+    },
+    {
+        "name": "Navy Evil Pig Bag",
+        "sections": [
+            {
+                "name": "Navy Evil Pig Bag (Old Tree Hill)"
+            }
+        ]
+    },
+    {
+        "name": "Mixer",
+        "sections": [
+            {
+                "name": "Mixer (Clock Tower)"
+            }
+        ]
+    },
+    {
+        "name": "Bassement",
+        "sections": [
+            {
+                "name": "Bassement (Lumberjack Factory)"
+            }
+        ]
+    },
+    {
+        "name": "Build a Raft",
+        "sections": [
+            {
+                "name": "Build a Raft (Lumberjack Factory)"
+            }
+        ]
+    },
+    {
+        "name": "Fuel Bar",
+        "sections": [
+            {
+                "name": "Fuel Bar (Lumberjack Factory)"
+            }
+        ]
+    },
+    {
+        "name": "Need Power",
+        "sections": [
+            {
+                "name": "Need Power (Iron Castle)"
+            }
+        ]
+    },
+    {
+        "name": "Find my Son",
+        "sections": [
+            {
+                "name": "Find my Son (Hidden Village)"
+            }
+        ]
+    },
+    {
+        "name": "Golden Butterfly",
+        "sections": [
+            {
+                "name": "Golden Butterfly (Hidden Village)"
+            }
+        ]
+    },
+    {
+        "name": "Hungry but not for Cheese 1",
+        "sections": [
+            {
+                "name": "Hungry but not for Cheese 1 (Hidden Village)"
+            }
+        ]
+    },
+    {
+        "name": "Hungry but not for Cheese 2",
+        "sections": [
+            {
+                "name": "Hungry but not for Cheese 2 (Hidden Village)"
+            }
+        ]
+    },
+    {
+        "name": "Vitality Increase",
+        "sections": [
+            {
+                "name": "Vitality Increase (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 1",
+        "sections": [
+            {
+                "name": "1Up 1 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "1Up 2",
+        "sections": [
+            {
+                "name": "1Up 2 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "On Top of Water",
+        "sections": [
+            {
+                "name": "On Top of Water (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Left 1,000 Wing",
+        "sections": [
+            {
+                "name": "Left 1,000 Wing (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Right 1,000 Wing",
+        "sections": [
+            {
+                "name": "Right 1,000 Wing (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Rock Bottom",
+        "sections": [
+            {
+                "name": "Rock Bottom (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Yellow Pig Bag",
+        "sections": [
+            {
+                "name": "Yellow Pig Bag (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 1",
+        "sections": [
+            {
+                "name": "Math Bead 1 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 2",
+        "sections": [
+            {
+                "name": "Math Bead 2 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 3",
+        "sections": [
+            {
+                "name": "Math Bead 3 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 4",
+        "sections": [
+            {
+                "name": "Math Bead 4 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 5",
+        "sections": [
+            {
+                "name": "Math Bead 5 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 6",
+        "sections": [
+            {
+                "name": "Math Bead 6 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 7",
+        "sections": [
+            {
+                "name": "Math Bead 7 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 8",
+        "sections": [
+            {
+                "name": "Math Bead 8 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 9",
+        "sections": [
+            {
+                "name": "Math Bead 9 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Math Bead 10",
+        "sections": [
+            {
+                "name": "Math Bead 10 (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Blue Jewel",
+        "sections": [
+            {
+                "name": "Blue Jewel (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Collect the Beads Key",
+        "sections": [
+            {
+                "name": "Collect the Beads Key (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "Collect the Beads Wire",
+        "sections": [
+            {
+                "name": "Collect the Beads Wire (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "5 Golden Items",
+        "sections": [
+            {
+                "name": "5 Golden Items (Trick Village)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Cheese",
+        "sections": [
+            {
+                "name": "100 Year Old Cheese (Underground Maze Entrance)"
+            }
+        ]
+    },
+    {
+        "name": "Needlegator Teeth",
+        "sections": [
+            {
+                "name": "Needlegator Teeth (Underground Maze Entrance)"
+            }
+        ]
+    },
+    {
+        "name": "Medecine",
+        "sections": [
+            {
+                "name": "Medecine (Underground Maze Entrance)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Old Cheese",
+        "sections": [
+            {
+                "name": "10,000 Year Old Cheese (Underground Maze Entrance)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Cheese 1",
+        "sections": [
+            {
+                "name": "100 Year Old Cheese 1 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Cheese 2",
+        "sections": [
+            {
+                "name": "100 Year Old Cheese 2 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Lunch",
+        "sections": [
+            {
+                "name": "1,000 Year Old Lunch (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Old Claw",
+        "sections": [
+            {
+                "name": "10,000 Year Old Claw (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "Butamashi Thorn",
+        "sections": [
+            {
+                "name": "Butamashi Thorn (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Wing 1",
+        "sections": [
+            {
+                "name": "100 Year Old Wing 1 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Wing 2",
+        "sections": [
+            {
+                "name": "100 Year Old Wing 2 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Cheese 1",
+        "sections": [
+            {
+                "name": "1,000 Year Old Cheese 1 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Cheese 2",
+        "sections": [
+            {
+                "name": "1,000 Year Old Cheese 2 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Old Wing 1",
+        "sections": [
+            {
+                "name": "10,000 Year Old Wing 1 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "10,000 Year Old Wing 2",
+        "sections": [
+            {
+                "name": "10,000 Year Old Wing 2 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "100 Year Old Lunch",
+        "sections": [
+            {
+                "name": "100 Year Old Lunch (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "Biting Plant Flower",
+        "sections": [
+            {
+                "name": "Biting Plant Flower (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "Near the Small Strange Room 1",
+        "sections": [
+            {
+                "name": "Near the Small Strange Room 1 (Underground Maze)"
+            }
+        ]
+    },
+    {
+        "name": "Million Year Old Key",
+        "sections": [
+            {
+                "name": "Million Year Old Key (Million Year Old Man's Room)"
+            }
+        ]
+    },
+    {
+        "name": "Bronze Medal",
+        "sections": [
+            {
+                "name": "Bronze Medal (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "Silver Medal",
+        "sections": [
+            {
+                "name": "Silver Medal (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "Gold Medal",
+        "sections": [
+            {
+                "name": "Gold Medal (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "Flying Wing Leftmost",
+        "sections": [
+            {
+                "name": "Flying Wing Leftmost (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "Flying Wing Rightmost",
+        "sections": [
+            {
+                "name": "Flying Wing Rightmost (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "In the House",
+        "sections": [
+            {
+                "name": "In the House (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "In the back House",
+        "sections": [
+            {
+                "name": "In the back House (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "Lunch Box",
+        "sections": [
+            {
+                "name": "Lunch Box (The Mermaid's Singing Rock)"
+            }
+        ]
+    },
+    {
+        "name": "Take Out 1",
+        "sections": [
+            {
+                "name": "Take Out 1 (Hidden Village)"
+            }
+        ]
+    },
+    {
+        "name": "Take Out 2",
+        "sections": [
+            {
+                "name": "Take Out 2 (Hidden Village)"
+            }
+        ]
+    }
+]
