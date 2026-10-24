@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Mizuno's House",
+        "chest_unopened_img": "images/items/close.png",
+        "chest_opened_img": "images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "event_we_need_power"
+        ],
+        "sections": [
+            {
+                "name": "What the Witch Lost",
+                "access_rules": [
+                    "three_crystal_balls"
+                ]
+            },
+            {
+                "name": "Magic Mirror",
+                "access_rules": [
+                    "grapple,blackjack,magic_mirror"
+                ]
+            },
+            {
+                "name": "Make Candy",
+                "access_rules": [
+                    "silver_powder,biting_plant_flower,molasses,kokka_claw,butamushi_thorn,needlegator_teeth"
+                ]
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "village_of_all_beginnings",
+                "x": 290,
+                "y": 739,
+                "size": 30,
+                "shape": "rect"
+            }
+        ]
+    }
+]

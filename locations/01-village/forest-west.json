@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Forest Of All Beginnings (part 1)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "event_clear_the_fog",
+            "million_year_old_bell,thiefs_wire"
+        ],
+        "children": [
+            {
+                "name": "100 Year Old Chest on the Swings",
+                "sections": [
+                    { "name": "Vitality Increase" }
+                ],
+                "access_rules": [ "hundred_year_old_key" ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2177,
+                        "y": 976,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Biting Plant Flower",
+                "sections": [
+                    { "name": "Ouch!" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2041,
+                        "y": 1469,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest by Ol' Pond",
+                "access_rules": [
+                    "ten_thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2106,
+                        "y": 1415,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Kokka Egg near the door",
+                "sections": [
+                    { "name": "Scramble it!" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2237,
+                        "y": 1519,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

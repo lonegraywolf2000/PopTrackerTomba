@@ -1,0 +1,26 @@
+{
+    "tracker_broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "layout",
+                        "v_alignment": "top",
+                        "key": "pig_bags_vertical"
+                    },
+                    {
+                        "type": "layout",
+                        "v_alignment": "top",
+                        "key": "items_vertical"
+                    }
+                ]
+            }
+        ]
+    }
+}

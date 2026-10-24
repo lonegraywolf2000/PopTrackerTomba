@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Crying Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "Free Food Left",
+                "sections": [
+                    { "name": "Cheese" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 2951,
+                        "y": 1175,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Free Food Right",
+                "sections": [
+                    { "name": "Cheese" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 3000,
+                        "y": 1175,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trick Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "On the Elevator",
+                "sections": [
+                    { "name": "Large Key Panel" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 2844,
+                        "y": 882,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

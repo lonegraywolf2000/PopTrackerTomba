@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Red Evil Pig Bag",
+    "type": "progressive",
+    "codes": "red_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/red_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "red_evil_pig_bag"
+      },
+      {
+        "img": "images/items/red_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "red_evil_pig_bag, event_phoenix_mountain"
+      }
+    ]
+  },
+  {
+    "name": "Orange Evil Pig Bag",
+    "type": "progressive",
+    "codes": "orange_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/orange_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "orange_evil_pig_bag"
+      },
+      {
+        "img": "images/items/orange_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "orange_evil_pig_bag, event_baccus_village"
+      }
+    ]
+  },
+  {
+    "name": "Yellow Evil Pig Bag",
+    "type": "progressive",
+    "codes": "yellow_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/yellow_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "yellow_evil_pig_bag"
+      },
+      {
+        "img": "images/items/yellow_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "yellow_evil_pig_bag, event_trick_village"
+      }
+    ]
+  },
+  {
+    "name": "Green Evil Pig Bag",
+    "type": "progressive",
+    "codes": "green_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/green_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "green_evil_pig_bag"
+      },
+      {
+        "img": "images/items/green_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "green_evil_pig_bag, event_lava_caves"
+      }
+    ]
+  },
+  {
+    "name": "Blue Evil Pig Bag",
+    "type": "progressive",
+    "codes": "blue_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/blue_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "blue_evil_pig_bag"
+      },
+      {
+        "img": "images/items/blue_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "blue_evil_pig_bag, event_the_100_flower_forest"
+      }
+    ]
+  },
+  {
+    "name": "Navy Evil Pig Bag",
+    "type": "progressive",
+    "codes": "navy_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/navy_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "navy_evil_pig_bag"
+      },
+      {
+        "img": "images/items/navy_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "navy_evil_pig_bag, event_the_deep_jungle_pig"
+      }
+    ]
+  },
+  {
+    "name": "Pink Evil Pig Bag",
+    "type": "progressive",
+    "codes": "pink_evil_pig_bag_layout",
+    "stages": [
+      {
+        "img": "images/items/pink_evil_pig_bag.png",
+        "inherit_codes": false,
+        "codes": "pink_evil_pig_bag"
+      },
+      {
+        "img": "images/items/pink_evil_pig_bag_layout.png",
+        "inherit_codes": false,
+        "codes": "pink_evil_pig_bag, event_the_haunted_mansion"
+      }
+    ]
+  }
+]

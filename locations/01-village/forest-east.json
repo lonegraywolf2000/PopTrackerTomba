@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Forest Of All Beginnings (part 2)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "event_clear_the_fog",
+            "million_year_old_bell,thiefs_wire"
+        ],
+        "children": [
+            {
+                "name": "Kokka Egg on top of Ol' Pond Hut",
+                "sections": [
+                    { "name": "Scramble it!" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2520,
+                        "y": 1100,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Kokka Egg near the Top",
+                "sections": [
+                    { "name": "Scramble it!" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2938,
+                        "y": 577,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest near the Hut",
+                "access_rules": [
+                    "hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Charity Wings" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2442,
+                        "y": 315,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1Up",
+                "sections": [
+                    { "name": "1Up" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 2955,
+                        "y": 1144,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Events (Forest of All Beginnings)",
+                "access_rules": [ "event_the_hundred_year_old_wise_man" ],
+                "sections": [
+                    { "name": "Who are You?", "hosted_item": "event_who_are_you" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 3080,
+                        "y": 910,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    }
+]

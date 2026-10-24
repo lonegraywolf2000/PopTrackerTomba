@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Hidding Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "What's Underwater?",
+                "access_rules": [ "seashell_necklace, event_the_ten_thousand_year_old_man" ],
+                "sections": [
+                    { "name": "Mighty Fish Food" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 3957,
+                        "y": 1232,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near the Mermaid",
+                "sections": [
+                    { "name": "Large Key Panel" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 3908,
+                        "y": 1076,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest",
+                "access_rules": [
+                    "thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Stone Boomerang" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 3961,
+                        "y": 996,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Room Of Tribulation",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "The Digging Mole",
+                "access_rules": [
+                    "event_the_haunted_mansion,event_the_thiefs_door"
+                ],
+                "sections": [
+                    { "name": "Unbreakable Wire" },
+                    { "name": "Event: Unbreakable Wire", "hosted_item": "event_unbreakable_wire" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 4287,
+                        "y": 928,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Near the Healing Fountain",
+                "sections": [
+                    { "name": "Large Key Panel" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 4204,
+                        "y": 989,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "1,000 Year Old Mans Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "Save the Old Man",
+                "access_rules": [
+                    "event_break_the_magic_egg"
+                ],
+                "sections": [
+                    { "name": "Eggs Broken" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 4636,
+                        "y": 1044,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thiefs Room Two",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "Save the Villager",
+                "sections": [
+                    { "name": "Small Key" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 4256,
+                        "y": 1210,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Swimming Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "1,000 Year Old Chest",
+                "access_rules": [
+                    "thousand_year_old_key, $CanGrapple",
+                    "thousand_year_old_key, $CanSwim"
+                ],
+                "sections": [
+                    { "name": "Large Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 4810,
+                        "y": 1167,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

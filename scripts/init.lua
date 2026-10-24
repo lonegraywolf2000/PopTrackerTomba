@@ -1,29 +1,40 @@
-ENABLE_DEBUG_LOG = true
-
 local variant = Tracker.ActiveVariantUID
 
-print("-- Tomba! Tracker --")
-print("Loaded variant: ", variant)
-if ENABLE_DEBUG_LOG then
-    print("Debug logging is enabled!")
+IS_ITEMS_ONLY = variant:find("itemsonly")
+
+IS_VERTICAL_BROADCAST = variant:find("_vb")
+
+-- Items
+require("scripts.items_import")
+
+-- Logic
+require("scripts.logic.logic_helper")
+require("scripts.logic.base_logic")
+require("scripts.logic.graph_logic.logic_main")
+
+if not IS_ITEMS_ONLY then
+    -- Maps
+    Tracker:AddMaps("maps/maps.json")
+    -- Locations
+    require("scripts.locations_import")
 end
-
-Tracker:AddItems("items/items.json")
-Tracker:AddItems("items/events.json")
-
-Tracker:AddMaps("maps/maps.json")
 
 -- Layout
-Tracker:AddLayouts("layouts/areas.json")
-Tracker:AddLayouts("layouts/events.json")
-Tracker:AddLayouts("layouts/items.json")
+require("scripts.layouts_import")
 
-Tracker:AddLayouts("layouts/tracker.json")
-
--- Locations
-Tracker:AddLocations("locations/locations.json")
-
--- AutoTracking for Poptracker
-if PopVersion and PopVersion >= "0.18.0" then
-    ScriptHost:LoadScript("scripts/autotracking.lua")
+-- AutoTracking for PopTracker
+if PopVersion and PopVersion >= "0.26.0" then
+    require("scripts.autotracking")
 end
+
+function OnFrameHandler()
+    ScriptHost:RemoveOnFrameHandler("load handler")
+    -- stuff
+    ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
+    ScriptHost:AddOnLocationSectionChangedHandler("location_section_change_handler", LocationHandler)
+    CreateLuaManualStorageItem("manual_location_storage")
+    ForceUpdate()
+end
+require("scripts.luaitems")
+require("scripts.watches")
+ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)

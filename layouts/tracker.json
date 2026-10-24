@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "layout",
-                    "key": "areas"
+                    "key": "tabbed_maps_horizontal"
                 }
             ]
         }

@@ -1,0 +1,418 @@
+[
+    {
+        "name": "Trick Village",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "ten_thousand_year_old_bell",
+            "event_clear_the_fog,key_to_ol_pond"
+        ],
+        "children": [
+            {
+                "name": "10,000 Year Old Chest (Wooden Wheels)",
+                "access_rules": [ "ten_thousand_year_old_key, event_whats_underwater" ],
+                "sections": [
+                    { "name": "AP Crystal" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 400,
+                        "y": 1475,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest Maze Top",
+                "access_rules": [
+                    "ten_thousand_year_old_key, event_whats_underwater",
+                    "ten_thousand_year_old_key, event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Vitality Increase" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 943,
+                        "y": 815,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Million Year Old Chest South",
+                "access_rules": [
+                    "million_year_old_key, event_whats_underwater"
+                ],
+                "sections": [
+                    { "name": "1Up 1" },
+                    { "name": "1Up 2" }
+                ],
+                "chest_unopened_img": "images/chests/04-1m-closed.png",
+                "chest_opened_img": "images/chests/04-1m-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1513,
+                        "y": 1487,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest (Surface)",
+                "access_rules": [ "thousand_year_old_key" ],
+                "sections": [
+                    { "name": "Seashell Necklace" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1774,
+                        "y": 589,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest (Maze Left)",
+                "access_rules": [
+                    "thousand_year_old_key, event_whats_underwater",
+                    "thousand_year_old_key, event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Charity Wing" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 721,
+                        "y": 1369,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest (Maze Inner)",
+                "access_rules": [
+                    "thousand_year_old_key, event_whats_underwater",
+                    "thousand_year_old_key, event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Charity Wing" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 946,
+                        "y": 1258,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest South",
+                "access_rules": [
+                    "event_whats_underwater, thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Large Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1287,
+                        "y": 1486,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest Southeast",
+                "access_rules": [
+                    "ten_thousand_year_old_key, event_whats_underwater",
+                    "ten_thousand_year_old_key, event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Yellow Pig Bag" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1744,
+                        "y": 1267,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 1",
+                "access_rules": [ "event_whats_underwater" ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 704,
+                        "y": 1469,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 2",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 697,
+                        "y": 923,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 3",
+                "access_rules": [ "event_whats_underwater" ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1885,
+                        "y": 1488,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 4",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village, $CanSwim"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1290,
+                        "y": 1324,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 5",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1900,
+                        "y": 935,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 6",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1892,
+                        "y": 1266,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 7",
+                "access_rules": [ "event_whats_underwater" ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1202,
+                        "y": 1490,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 8",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1171,
+                        "y": 1036,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 9",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1524,
+                        "y": 933,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Math Bead 10",
+                "access_rules": [
+                    "event_whats_underwater",
+                    "event_trick_village"
+                ],
+                "sections": [
+                    { "name": "Swim Over" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 698,
+                        "y": 1156,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Blue Jewel",
+                "access_rules": [ "event_whats_underwater" ],
+                "sections": [
+                    { "name": "Jewel of Water" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1422,
+                        "y": 1476,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Man's House",
+                "access_rules": [ "math_bead_1, math_bead_2, math_bead_3, math_bead_4, math_bead_5, math_bead_6, math_bead_7, math_bead_8, math_bead_9, math_bead_10 "],
+                "sections": [
+                    { "name": "Collect the Beads Key" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1451,
+                        "y": 278,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Man's House",
+                "access_rules": [ "math_bead_1, math_bead_2, math_bead_3, math_bead_4, math_bead_5, math_bead_6, math_bead_7, math_bead_8, math_bead_9, math_bead_10 "],
+                "sections": [
+                    { "name": "Collect the Beads Wire" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1449,
+                        "y": 230,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Man's House",
+                "access_rules": [ "event_the_10_math_beads, gold_candy, gold_flower, gold_medal, golden_leaf_butterfly, golden_fruit" ],
+                "sections": [
+                    { "name": "5 Golden Items" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "trick_village",
+                        "x": 1380,
+                        "y": 211,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

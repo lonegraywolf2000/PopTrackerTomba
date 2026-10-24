@@ -1,0 +1,1093 @@
+[
+    // #region Pig Bags
+    {
+        "name": "Red Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/red_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "red_evil_pig_bag"
+    },
+    {
+        "name": "Orange Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/orange_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orange_evil_pig_bag"
+    },
+    {
+        "name": "Yellow Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/yellow_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yellow_evil_pig_bag"
+    },
+    {
+        "name": "Green Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/green_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "green_evil_pig_bag"
+    },
+    {
+        "name": "Blue Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/blue_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blue_evil_pig_bag"
+    },
+    {
+        "name": "Navy Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/navy_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "navy_evil_pig_bag"
+    },
+    {
+        "name": "Pink Evil Pig Bag",
+        "type": "toggle",
+        "img": "images/items/pink_evil_pig_bag.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pink_evil_pig_bag"
+    },
+    // #endregion
+    // #region Bells
+    {
+        "name": "Hundred Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/hundred_year_old_bell.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hundred_year_old_bell"
+    },
+    {
+        "name": "Thousand Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/thousand_year_old_bell.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thousand_year_old_bell"
+    },
+    {
+        "name": "Ten Thousand Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/ten_thousand_year_old_bell.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ten_thousand_year_old_bell"
+    },
+        {
+        "name": "Million Year Old Bell",
+        "type": "toggle",
+        "img": "images/items/million_year_old_bell.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "million_year_old_bell"
+    },
+    // #endregion
+    // #region Keys
+    {
+        "name": "Hundred Year Old Key",
+        "type": "toggle",
+        "img": "images/items/hundred_year_old_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hundred_year_old_key"
+    },
+    {
+        "name": "Thousand Year Old Key",
+        "type": "toggle",
+        "img": "images/items/thousand_year_old_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thousand_year_old_key"
+    },
+    {
+        "name": "Ten Thousand Year Old Key",
+        "type": "toggle",
+        "img": "images/items/ten_thousand_year_old_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ten_thousand_year_old_key"
+    },
+    {
+        "name": "Million Year Old Key",
+        "type": "toggle",
+        "img": "images/items/million_year_old_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "million_year_old_key"
+    },
+    // #endregion
+    // #region Equippable Items
+    {
+        "name": "Blackjack",
+        "type": "toggle",
+        "img": "images/items/blackjack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackjack"
+    },
+    {
+        "name": "Wood Boomerang",
+        "type": "toggle",
+        "img": "images/items/wood_boomerang.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wood_boomerang"
+    },
+    {
+        "name": "Stone Boomerang",
+        "type": "toggle",
+        "img": "images/items/stone_boomerang.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stone_boomerang"
+    },
+    {
+        "name": "Iron Boomerang",
+        "type": "toggle",
+        "img": "images/items/iron_boomerang.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "iron_boomerang"
+    },
+    {
+        "name": "Grapple",
+        "type": "toggle",
+        "img": "images/items/grapple.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grapple"
+    },
+    {
+        "name": "Grapplejack",
+        "type": "toggle",
+        "img": "images/items/grapplejack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grapplejack"
+    },
+    {
+        "name": "Normal Pants",
+        "type": "toggle",
+        "img": "images/items/normal_pants.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "normal_pants"
+    },
+    {
+        "name": "Dashing Pants",
+        "type": "toggle",
+        "img": "images/items/dashing_pants.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dashing_pants"
+    },
+    {
+        "name": "Flash Pants",
+        "type": "toggle",
+        "img": "images/items/flash_pants.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flash_pants"
+    },
+    {
+        "name": "Jumping Pants",
+        "type": "toggle",
+        "img": "images/items/jumping_pants.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jumping_pants"
+    },
+    {
+        "name": "Funky Parasol",
+        "type": "toggle",
+        "img": "images/items/funky_parasol.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "funky_parasol"
+    },
+    {
+        "name": "Jewel of Fire",
+        "type": "toggle",
+        "img": "images/items/jewel_of_fire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jewel_of_fire"
+    },
+    {
+        "name": "Jewel of Water",
+        "type": "toggle",
+        "img": "images/items/jewel_of_water.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jewel_of_water"
+    },
+    {
+        "name": "Jewel of Wind",
+        "type": "toggle",
+        "img": "images/items/jewel_of_wind.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jewel_of_wind"
+    },
+    // #endregion
+    // #region Fish?
+    {
+        "name": "Mighty Fish Food",
+        "type": "toggle",
+        "img": "images/items/mighty_fish_food.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mighty_fish_food"
+    },
+    {
+        "name": "Mighty Fish",
+        "type": "toggle",
+        "img": "images/items/mighty_fish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mighty_fish"
+    },
+    {
+        "name": "Sacred Fish",
+        "type": "toggle",
+        "img": "images/items/sacred_fish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sacred_fish"
+    },
+    {
+        "name": "Psychic Fish",
+        "type": "toggle",
+        "img": "images/items/psychic_fish.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "psychic_fish"
+    },
+    // #endregion
+    // #region Early Consumables + Baron
+    {
+        "name": "Vitality Max",
+        "type": "consumable",
+        "img": "images/items/vitmax.png",
+        "min_quantity": 0,
+        "max_quantity": 12,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "vitality_max"
+    },
+    {
+        "name": "Healing Mushroom",
+        "type": "consumable",
+        "img": "images/items/healing_mushroom.png",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "healing_mushroom"
+    },
+    {
+        "name": "Charity Wings",
+        "type": "consumable",
+        "img": "images/items/charity_wings.png",
+        "min_quantity": 0,
+        "max_quantity": 99,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "charity_wings"
+    },
+    {
+        "name": "Healing Herbs",
+        "type": "toggle",
+        "img": "images/items/healing_herbs.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "healing_herbs"
+    },
+    {
+        "name": "Knowledge Fruit",
+        "type": "toggle",
+        "img": "images/items/knowledge_fruit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "knowledge_fruit"
+    },
+    {
+        "name": "Seaweed",
+        "type": "toggle",
+        "img": "images/items/seaweed.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seaweed"
+    },
+    {
+        "name": "Baron",
+        "type": "toggle",
+        "img": "images/items/baron.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baron"
+    },
+    {
+        "name": "Lunch Box",
+        "type": "consumable",
+        "img": "images/items/lunch_box.png",
+        "min_quantity": 0,
+        "max_quantity": 50,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "lunch_box"
+    },
+    {
+        "name": "Large Lunch Box",
+        "type": "consumable",
+        "img": "images/items/large_lunch_box.png",
+        "min_quantity": 0,
+        "max_quantity": 50,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "large_lunch_box"
+    },
+    {
+        "name": "Yan's Lunch Box",
+        "type": "toggle",
+        "img": "images/items/yans_lunch_box.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yans_lunch_box"
+    },
+    // #endregion
+    // #region Oh Charles...
+    {
+        "name": "Bananas",
+        "type": "consumable",
+        "img": "images/items/bananas.png",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "bananas"
+    },
+    {
+        "name": "Charles' Pants",
+        "type": "toggle",
+        "img": "images/items/charles_pants.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charles_pants"
+    },
+    {
+        "name": "Banana Juice",
+        "type": "toggle",
+        "img": "images/items/banana_juice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "banana_juice"
+    },
+    // #endregion
+    // #region Unsorted
+    {
+        "name": "Mysterious Mushroom",
+        "type": "toggle",
+        "img": "images/items/mysterious_mushroom.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mysterious_mushroom"
+    },
+    {
+        "name": "Baby Pig",
+        "type": "toggle",
+        "img": "images/items/baby_pig.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baby_pig"
+    },
+    {
+        "name": "Bomb",
+        "type": "toggle",
+        "img": "images/items/bomb.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bomb"
+    },
+    {
+        "name": "Big Key",
+        "type": "toggle",
+        "img": "images/items/big_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "big_key"
+    },
+    {
+        "name": "Pipe",
+        "type": "toggle",
+        "img": "images/items/pipe.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pipe"
+    },
+    {
+        "name": "Math Bead 7",
+        "type": "toggle",
+        "img": "images/items/math_bead_7.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_7"
+    },
+    {
+        "name": "Bucket of Water",
+        "type": "toggle",
+        "img": "images/items/bucket_of_water.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bucket_of_water"
+    },
+    {
+        "name": "Raft",
+        "type": "toggle",
+        "img": "images/items/raft.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raft"
+    },
+    {
+        "name": "What the Thief Lost",
+        "type": "toggle",
+        "img": "images/items/what_the_thief_lost.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "what_the_thief_lost"
+    },
+    {
+        "name": "Fuel Bar",
+        "type": "toggle",
+        "img": "images/items/fuel_bar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fuel_bar"
+    },
+    {
+        "name": "Large Key Panel 5",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_5.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "large_key_panel_5"
+    },
+    {
+        "name": "Cold Medicine",
+        "type": "toggle",
+        "img": "images/items/cold_medicine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cold_medicine"
+    },
+    {
+        "name": "Bunk Flower",
+        "type": "consumable",
+        "img": "images/items/bunk_flower.png",
+        "min_quantity": 0,
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "bunk_flower"
+    },
+    {
+        "name": "Strong Wire",
+        "type": "toggle",
+        "img": "images/items/strong_wire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "strong_wire"
+    },
+    {
+        "name": "Key to Ol' Pond",
+        "type": "toggle",
+        "img": "images/items/key_to_ol_pond.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key_to_ol_pond"
+    },
+    {
+        "name": "Wine",
+        "type": "toggle",
+        "img": "images/items/wine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wine"
+    },
+    {
+        "name": "Large Key Panel 2",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "large_key_panel_2"
+    },
+    {
+        "name": "Math Bead 8",
+        "type": "toggle",
+        "img": "images/items/math_bead_8.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_8"
+    },
+    {
+        "name": "Chick",
+        "type": "consumable",
+        "img": "images/items/chick.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "chick"
+    },
+    {
+        "name": "Furious Tornado",
+        "type": "toggle",
+        "img": "images/items/furious_tornado.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "furious_tornado"
+    },
+    {
+        "name": "Math Bead 9",
+        "type": "toggle",
+        "img": "images/items/math_bead_9.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_9"
+    },
+    {
+        "name": "Bucket",
+        "type": "toggle",
+        "img": "images/items/bucket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bucket"
+    },
+    {
+        "name": "Seashell Necklace",
+        "type": "toggle",
+        "img": "images/items/seashell_necklace.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seashell_necklace"
+    },
+    {
+        "name": "Math Bead 2",
+        "type": "toggle",
+        "img": "images/items/math_bead_2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_2"
+    },
+    {
+        "name": "Telescope",
+        "type": "toggle",
+        "img": "images/items/telescope.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "telescope"
+    },
+    {
+        "name": "Dirty Mirror",
+        "type": "toggle",
+        "img": "images/items/dirty_mirror.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dirty_mirror"
+    },
+    {
+        "name": "Blue Powder",
+        "type": "toggle",
+        "img": "images/items/blue_powder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blue_powder"
+    },
+    {
+        "name": "Flower Tears",
+        "type": "toggle",
+        "img": "images/items/flower_tears.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flower_tears"
+    },
+    {
+        "name": "Large Key Panel 3",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "large_key_panel_3"
+    },
+    {
+        "name": "1up",
+        "type": "consumable",
+        "img": "images/items/1up.gif",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "1up"
+    },
+    {
+        "name": "Magic Mirror",
+        "type": "toggle",
+        "img": "images/items/magic_mirror.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magic_mirror"
+    },
+    {
+        "name": "Thief's Wire",
+        "type": "toggle",
+        "img": "images/items/thiefs_wire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thiefs_wire"
+    },
+    {
+        "name": "Rise and Shine Powder",
+        "type": "toggle",
+        "img": "images/items/rise_and_shine_powder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rise_and_shine_powder"
+    },
+    {
+        "name": "Math Bead 3",
+        "type": "toggle",
+        "img": "images/items/math_bead_3.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_3"
+    },
+    {
+        "name": "Three Crystal Balls",
+        "type": "toggle",
+        "img": "images/items/three_crystal_balls.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "three_crystal_balls"
+    },
+    {
+        "name": "Large Key Panel 4",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_4.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "large_key_panel_4"
+    },
+    {
+        "name": "Math Bead 1",
+        "type": "toggle",
+        "img": "images/items/math_bead_1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_1"
+    },
+    {
+        "name": "Frog",
+        "type": "toggle",
+        "img": "images/items/frog.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frog"
+    },
+    {
+        "name": "Miner's Hat",
+        "type": "toggle",
+        "img": "images/items/miners_hat.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "miners_hat"
+    },
+    {
+        "name": "Math Bead 4",
+        "type": "toggle",
+        "img": "images/items/math_bead_4.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_4"
+    },
+    {
+        "name": "Large Key Panel 1",
+        "type": "toggle",
+        "img": "images/items/large_key_panel_1.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "large_key_panel_1"
+    },
+    {
+        "name": "Torch",
+        "type": "toggle",
+        "img": "images/items/torch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "torch"
+    },
+    {
+        "name": "Broken Vase",
+        "type": "toggle",
+        "img": "images/items/broken_vase.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "broken_vase"
+    },
+    {
+        "name": "What the Thief Forgot",
+        "type": "toggle",
+        "img": "images/items/what_the_thief_forgot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "what_the_thief_forgot"
+    },
+    {
+        "name": "Math Bead 10",
+        "type": "toggle",
+        "img": "images/items/math_bead_10.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_10"
+    },
+    {
+        "name": "Boss Jewel",
+        "type": "toggle",
+        "img": "images/items/boss_jewel.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boss_jewel"
+    },
+    {
+        "name": "Math Bead 5",
+        "type": "toggle",
+        "img": "images/items/math_bead_5.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_5"
+    },
+    {
+        "name": "Baked Yam",
+        "type": "toggle",
+        "img": "images/items/baked_yam.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baked_yam"
+    },
+    {
+        "name": "Math Bead 6",
+        "type": "toggle",
+        "img": "images/items/math_bead_6.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "math_bead_6"
+    },
+    {
+        "name": "Weed Killer",
+        "type": "toggle",
+        "img": "images/items/weed_killer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weed_killer"
+    },
+    {
+        "name": "Small Key",
+        "type": "toggle",
+        "img": "images/items/small_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "small_key"
+    },
+    {
+        "name": "Tear Jar",
+        "type": "toggle",
+        "img": "images/items/tear_jar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tear_jar"
+    },
+    {
+        "name": "Funga Drum",
+        "type": "toggle",
+        "img": "images/items/funga_drum.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "funga_drum"
+    },
+    {
+        "name": "Ordinary Mushroom",
+        "type": "toggle",
+        "img": "images/items/ordinary_mushroom.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ordinary_mushroom"
+    },
+    // #endregion
+    // #region Golden Items
+    // #region Butterfly
+    {
+        "name": "Leaf Butterfly",
+        "type": "consumable",
+        "img": "images/items/leaf_butterfly.png",
+        "min_quantity": 0,
+        "max_quantity": 29,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "leaf_butterfly"
+    },
+    {
+        "name": "Golden Leaf Butterfly",
+        "type": "toggle",
+        "img": "images/items/golden_leaf_butterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "golden_leaf_butterfly"
+    },
+    // #endregion
+    // #region Golden Fruit
+    {
+        "name": "Cheese",
+        "type": "consumable",
+        "img": "images/items/cheese.png",
+        "min_quantity": 0,
+        "max_quantity": 15,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "cheese"
+    },
+    {
+        "name": "Golden Fruit",
+        "type": "toggle",
+        "img": "images/items/golden_fruit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "golden_fruit"
+    },
+    // #endregion
+    // #region Flower
+    {
+        "name": "Flower Seeds",
+        "type": "toggle",
+        "img": "images/items/flower_seeds.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flower_seeds"
+    },
+    {
+        "name": "Gold Flower",
+        "type": "toggle",
+        "img": "images/items/gold_flower.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gold_flower"
+    },
+    // #endregion
+    // #region Candy
+    {
+        "name": "Silver Powder",
+        "type": "toggle",
+        "img": "images/items/silver_powder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silver_powder"
+    },
+    {
+        "name": "Biting Plant Flower",
+        "type": "consumable",
+        "img": "images/items/biting_plant_flower.png",
+        "min_quantity": 0,
+        "max_quantity": 2,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "biting_plant_flower"
+    },
+    {
+        "name": "Molasses",
+        "type": "toggle",
+        "img": "images/items/molasses.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "molasses"
+    },
+    {
+        "name": "Kokka Claw",
+        "type": "consumable",
+        "img": "images/items/kokka_claw.png",
+        "min_quantity": 0,
+        "max_quantity": 1,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "kokka_claw"
+    },
+    {
+        "name": "Butamushi Thorn",
+        "type": "consumable",
+        "img": "images/items/butamushi_thorn.png",
+        "min_quantity": 0,
+        "max_quantity": 1,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "butamushi_thorn"
+    },
+    {
+        "name": "Needlegator Teeth",
+        "type": "consumable",
+        "img": "images/items/needlegator_teeth.png",
+        "min_quantity": 0,
+        "max_quantity": 1,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "needlegator_teeth"
+    },
+    {
+        "name": "Gold Candy",
+        "type": "toggle",
+        "img": "images/items/gold_candy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gold_candy"
+    },
+    // #endregion
+    // #region Medals
+    {
+        "name": "Bronze Medal",
+        "type": "toggle",
+        "img": "images/items/bronze_medal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bronze_medal"
+    },
+    {
+        "name": "Silver Medal",
+        "type": "toggle",
+        "img": "images/items/silver_medal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "silver_medal"
+    },
+    {
+        "name": "Gold Medal",
+        "type": "toggle",
+        "img": "images/items/gold_medal.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gold_medal"
+    },
+    // #endregion
+    // #endregion
+    // #region Unused for now
+    {
+        "name": "AP Crystal",
+        "type": "consumable",
+        "img": "images/items/ap_crystal.gif",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "ap_crystal"
+    },
+    {
+        "name": "Apple",
+        "type": "consumable",
+        "img": "images/items/apple.gif",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "apple"
+    },
+    {
+        "name": "Cry",
+        "type": "toggle",
+        "img": "images/items/cry.gif",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cry"
+    },
+    {
+        "name": "Laugh",
+        "type": "toggle",
+        "img": "images/items/laugh.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "laugh"
+    },
+    {
+        "name": "Update",
+        "type": "toggle",
+        "img": "images/items/update.gif",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    },
+    {
+        "name": "Heal",
+        "type": "toggle",
+        "img": "images/items/heal.gif",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "heal"
+    }
+    // #endregion
+]

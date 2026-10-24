@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Stormy Mountain (part 2)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout"
+        ],
+        "children": [
+            {
+                "name": "Laughing Door",
+                "sections": [
+                    { "name": "Charity Wing" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 2810,
+                        "y": 915,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dig",
+                "access_rules": [
+                    "event_phoenix_mountain"
+                ],
+                "sections": [
+                    { "name": "Cheese" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 2831,
+                        "y": 1079,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "When the Wind Dies Down",
+                "access_rules": [
+                    "event_phoenix_mountain"
+                ],
+                "sections": [
+                    { "name": "Big Lunch Box" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 2868,
+                        "y": 740,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Million Year Old Chest",
+                "access_rules": [ "million_year_old_key" ],
+                "sections": [
+                    { "name": "Vitality Increase" }
+                ],
+                "chest_unopened_img": "images/chests/04-1m-closed.png",
+                "chest_opened_img": "images/chests/04-1m-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 3449,
+                        "y": 634,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Big Keyhole",
+                "access_rules": [
+                    "big_key"
+                ],
+                "sections": [
+                    { "name": "Red Evil Pig Bag" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 3755,
+                        "y": 795,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Herbs",
+                "sections": [
+                    { "name": "Give to Baron" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 3435,
+                        "y": 747,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest",
+                "access_rules": [ "hundred_year_old_key" ],
+                "sections": [
+                    { "name": "Dashing Pants" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 3623,
+                        "y": 822,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest by Lava Caves",
+                "access_rules": [
+                    "hundred_year_old_key, $CanGrapple",
+                    "hundred_year_old_key, jewel_of_fire, jewel_of_water, jewel_of_wind, event_phoenix_mountain, event_a_hungry_monkey, $HasPantsLevel1, $HasAnyFish, $HasBluePowder"
+                ],
+                "sections": [
+                    { "name": "Charity Wing 1" },
+                    { "name": "Charity Wing 2" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 4514,
+                        "y": 215,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest",
+                "access_rules": [
+                    "thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Grapple" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 4770,
+                        "y": 417,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

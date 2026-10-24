@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Village Of All Beginnings",
+        "chest_unopened_img": "images/items/close.png",
+        "chest_opened_img": "images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Mailbox",
+                "sections": [
+                    {
+                        "name": "Furious Tornado"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 180,
+                        "y": 1535,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Peach Flower Gas",
+                "sections": [
+                    { "name": "Baby Pig" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 766,
+                        "y": 1562,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Kokka Egg in the Village",
+                "sections": [
+                    { "name": "Scramble it!" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 1051,
+                        "y": 1461,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest on the Tree",
+                "access_rules": [
+                    "hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "100 Year Old Bell" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 884,
+                        "y": 1386,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Events (Village of All Beginnings)",
+                "access_rules": "furious_tornado",
+                "sections": [
+                    { "name": "Clear the Fog", "hosted_item": "event_clear_the_fog" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 1250,
+                        "y": 1386,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Events (Village Garage)",
+                "access_rules": [ "$CanBreakStuff" ],
+                "sections": [
+                    { "name": "Motocross Course", "hosted_item": "event_motocross_course" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 220,
+                        "y": 1060,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "access_rules": ["bananas"],
+                "sections": [
+                    { "name": "A Hungry Monkey", "hosted_item": "event_a_hungry_monkey" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "village_of_all_beginnings",
+                        "x": 370,
+                        "y": 1360,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    }
+]

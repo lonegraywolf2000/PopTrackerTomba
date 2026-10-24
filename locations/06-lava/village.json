@@ -1,0 +1,84 @@
+[
+    {
+        "name": "Hidden Village",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "leaf_butterfly:29",
+            "event_lava_caves"
+        ],
+        "children": [
+            {
+                "name": "Find my Son",
+                "sections": [
+                    { "name": "Yan is Hungry" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 892,
+                        "y": 324,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Golden Butterfly",
+                "access_rules": [ "leaf_butterfly:29" ],
+                "sections": [
+                    { "name": "Bring the butterflies!" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 985,
+                        "y": 99,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hungry but not for Cheese",
+                "access_rules": [
+                    "lunch_box",
+                    "large_lunch_box"
+                ],
+                "sections": [
+                    { "name": "Cheese 1" },
+                    { "name": "Cheese 2" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 979,
+                        "y": 183,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Take Out",
+                "access_rules": [
+                    "yans_lunch_box"
+                ],
+                "sections": [
+                    { "name": "Reward 1" },
+                    { "name": "Reward 2" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 1036,
+                        "y": 91,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

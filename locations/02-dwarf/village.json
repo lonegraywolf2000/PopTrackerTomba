@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Dwarf Village",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs",
+            "event_clear_the_fog, event_inside_the_kokka_eggs",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs"
+        ],
+        "children": [
+            {
+                "name": "Baron's Strength",
+                "access_rules": [ "event_barons_strength" ],
+                "sections": [
+                    { "name": "Baron" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 4647,
+                        "y": 1588,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Rescue the Child",
+                "access_rules": [
+                    "event_beginners_dwarf_language"
+                ],
+                "sections": [
+                    { "name": "Child Get" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 4509,
+                        "y": 1696,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest (North House)",
+                "access_rules": [
+                    "thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Charity Wings" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 4644,
+                        "y": 1535,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fire Starter",
+                "access_rules": [
+                    "event_beginners_dwarf_language,event_save_the_dwarves"
+                ],
+                "sections": [
+                    { "name": "Torch" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 4596,
+                        "y": 1675,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "access_rules": "baked_yam,event_beginners_dwarf_language",
+                "sections": [
+                    { "name": "Something's Cookin'", "hosted_item": "event_somethings_cookin" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 4550,
+                        "y": 1670,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    }
+]

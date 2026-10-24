@@ -1,18 +1,35 @@
 {
     "name": "Tomba! PopTracker",
     "game_name": "Tomba!",
+    "package_version": "0.3.0",
     "package_uid": "ap_tomba",
-    "package_version": "0.0.1",
+    "author": "T4g1, lonegraywolf",
     "platform": "psx",
-	"author": "T4g1",
     "variants": {
-        "default": {
-            "display_name": "Default tracker",
+        "map_hb": {
+            "display_name": "Map Tracker (Horizontal Broadcast)",
+            "flags": [
+                "ap"
+            ]
+        },
+        "map_vb": {
+            "display_name": "Map Tracker (Vertical Broadcast)",
+            "flags": [
+                "ap"
+            ]
+        },
+        "itemsonly_hb": {
+            "display_name": "Items Only (Horizontal Broadcast)",
+            "flags": [
+                "ap"
+            ]
+        },
+        "itemsonly_vb": {
+            "display_name": "Items Only (Vertical Broadcast)",
             "flags": [
                 "ap"
             ]
         }
     },
-    "min_poptracker_version": "0.23.1",
-    "target_poptracker_version": "0.23.1"
+    "min_poptracker_version": "0.35.4"
 }

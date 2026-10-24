@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Phoenix's Nest",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Beside the Nest",
+                "access_rules": [
+                    "event_the_jungle_pig_bag"
+                ],
+                "sections": [
+                    { "name": "Jewel of Wind" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 3842,
+                        "y": 86,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "access_rules": ["bunk_flower:5"],
+                "sections": [
+                    { "name": "The Master of the Skies", "hosted_item": "event_the_master_of_the_skies"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 3700,
+                        "y": 86,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    }
+]

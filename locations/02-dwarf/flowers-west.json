@@ -1,0 +1,109 @@
+[
+    {
+        "name": "Forest Of 100 Flowers (part 1)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs",
+            "event_clear_the_fog, event_inside_the_kokka_eggs",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs"
+        ],
+        "children": [
+            {
+                "name": "Leaf Butterflies",
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 1321,
+                        "y": 1944,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ],
+                "sections": [
+                    { "name": "Leaf Butterfly 1" },
+                    { "name": "Leaf Butterfly 2" },
+                    { "name": "Leaf Butterfly 3" },
+                    { "name": "Leaf Butterfly 4" },
+                    { "name": "Leaf Butterfly 5" },
+                    { "name": "Leaf Butterfly 6" },
+                    { "name": "Leaf Butterfly 7" },
+                    { "name": "Leaf Butterfly 8" },
+                    { "name": "Leaf Butterfly 9" },
+                    { "name": "Leaf Butterfly 10" },
+                    { "name": "Leaf Butterfly 11" },
+                    { "name": "Leaf Butterfly 12" },
+                    { "name": "Leaf Butterfly 13" },
+                    { "name": "Leaf Butterfly 14" },
+                    { "name": "Leaf Butterfly 15" },
+                    { "name": "Leaf Butterfly 16" },
+                    { "name": "Leaf Butterfly 17" },
+                    { "name": "Leaf Butterfly 18" },
+                    { "name": "Leaf Butterfly 19" },
+                    { "name": "Leaf Butterfly 20" },
+                    { "name": "Leaf Butterfly 21" },
+                    { "name": "Leaf Butterfly 22" },
+                    { "name": "Leaf Butterfly 23" },
+                    { "name": "Leaf Butterfly 24" },
+                    { "name": "Leaf Butterfly 25" }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest by Baron",
+                "access_rules": [ "thousand_year_old_key" ],
+                "sections": [
+                    { "name": "Vitality Increase" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 2689,
+                        "y": 1515,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Campfire",
+                "access_rules": [ "event_beginners_dwarf_language" ],
+                "sections": [
+                    { "name": "Baked Yam" },
+                    { "name": "Touch the Fire" },
+                    { "name": "Use the Water Bucket", "access_rules": "bucket_of_water" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 2100,
+                        "y": 1984,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest in the Flower Tree",
+                "access_rules": [ "event_beginners_dwarf_language" ],
+                "sections": [
+                    { "name": "Charity Wings 1" },
+                    { "name": "Charity Wings 2" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 1566,
+                        "y": 1660,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Lava Caves",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout"
+        ],
+        "children": [
+            {
+                "name": "Mouse NPC",
+                "sections": [
+                    { "name": "Charles' Pants" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 128,
+                        "y": 1584,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest",
+                "access_rules": [ "thousand_year_old_key" ],
+                "sections": [
+                    { "name": "Green Evil Pig Bag" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "lava_caves",
+                        "x": 213,
+                        "y": 1584,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

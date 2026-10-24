@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Baccus Pier",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs",
+            "event_clear_the_fog, event_inside_the_kokka_eggs",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs"
+        ],
+        "children": [
+            {
+                "name": "Pipe",
+                "sections": [
+                    { "name": "Freebie" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 1463,
+                        "y": 207,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

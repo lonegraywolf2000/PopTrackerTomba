@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Sunny Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "Million Year Old Chest",
+                "access_rules": [
+                    "million_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Large Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/04-1m-closed.png",
+                "chest_opened_img": "images/chests/04-1m-open.png",
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 754,
+                        "y": 1153,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near the Million Year Old Chest",
+                "sections": [
+                    { "name": "Large Key Panel" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 590,
+                        "y": 1188,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trap Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "100 Year Old Chest",
+                "access_rules": [
+                    "hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Apples" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 585,
+                        "y": 963,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest Behind Hay",
+                "access_rules": [
+                    "jewel_of_fire, hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Cheese 1" },
+                    { "name": "Cheese 2" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 904,
+                        "y": 953,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest",
+                "access_rules": [
+                    "jewel_of_fire, thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 1013,
+                        "y": 936,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

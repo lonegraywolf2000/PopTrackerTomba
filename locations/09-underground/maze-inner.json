@@ -1,0 +1,265 @@
+[
+    {
+        "name": "Underground Maze Inner",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "event_we_need_power,event_inside_the_kokka_eggs,thiefs_wire",
+            "million_year_old_bell,strong_wire"
+        ],
+        "children": [
+            {
+                "name": "Million Year Old Chest (North)",
+                "access_rules": [ "million_year_old_key" ],
+                "sections": [
+                    { "name": "AP Crystal" }
+                ],
+                "chest_unopened_img": "images/chests/04-1m-closed.png",
+                "chest_opened_img": "images/chests/04-1m-open.png",
+                "map_locations": [
+                {
+                    "map": "underground_maze",
+                    "x": 700,
+                    "y": 400,
+                    "size": 30,
+                    "shape": "rect"
+                }
+            ]
+            },
+            {
+                "name": "100 Year Old Chest East Cluster",
+                "access_rules": [
+                    "hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Cheese 1" },
+                    { "name": "Cheese 2" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 847,
+                        "y": 495,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest East Cluster",
+                "access_rules": [
+                    "thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 932,
+                        "y": 495,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest East Cluster",
+                "access_rules": [
+                    "ten_thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Kokka Claw" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 894,
+                        "y": 544,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest (Mole Tunnel)",
+                "access_rules": [
+                    "event_source_of_evil_magic, ten_thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Butamashi Thorn" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 243,
+                        "y": 1015,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest (Mole Tunnel)",
+                "access_rules": [
+                    "event_source_of_evil_magic, hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Charity Wing 1" },
+                    { "name": "Charity Wing 2" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 603,
+                        "y": 940,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest (SW Alcove)",
+                "access_rules": [
+                    "thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Cheese 1" },
+                    { "name": "Cheese 2" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 439,
+                        "y": 786,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest West Cluster",
+                "access_rules": [
+                    "ten_thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Charity Wing 1" },
+                    { "name": "Charity Wing 2" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 350,
+                        "y": 687,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "100 Year Old Chest West Cluster",
+                "access_rules": [
+                    "hundred_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 305,
+                        "y": 639,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest West Cluster",
+                "access_rules": [ "thousand_year_old_key" ],
+                "sections": [
+                    { "name": "Biting Plant Flower" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 345,
+                        "y": 600,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest (Near Strange Small Room)",
+                "access_rules": [
+                    "thousand_year_old_key"
+                ],
+                "sections": [
+                    { "name": "Cheese" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 105,
+                        "y": 366,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "sections": [
+                    { "name": "The Blue Fortune Teller", "hosted_item": "event_the_blue_fortune_teller" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 962,
+                        "y": 780,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Southern Inside Mole",
+                "access_rules": ["{}, event_the_thiefs_door"],
+                "sections": [
+                    { "name": "Learn of Unbreakable Wire", "hosted_item": "event_unbreakable_wire"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "underground_maze",
+                        "x": 920,
+                        "y": 850,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    }
+]

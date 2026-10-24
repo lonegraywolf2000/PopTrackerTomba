@@ -1,0 +1,58 @@
+[
+    {
+        "name": "The Mermaid's Singing Rock",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "$CanBreakStuff, fuel_bar"
+        ],
+        "children": [
+            {
+                "name": "Bronze Medal",
+                "sections": [
+                    { "name": "28.16" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 3014,
+                        "y": 1836,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Silver Medal",
+                "sections": [
+                    { "name": "26.55" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 3014,
+                        "y": 1916,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Gold Medal",
+                "sections": [
+                    { "name": "24.96" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 3014,
+                        "y": 1991,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

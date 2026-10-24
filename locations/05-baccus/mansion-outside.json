@@ -1,0 +1,53 @@
+[
+    {
+        "name": "North Side Of Mansion",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_a_drink_for_grownups",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_a_drink_for_grownups"
+        ],
+        "children": [
+            {
+                "name": "Event: A Small Key Hole?",
+                "access_rules": [
+                    "small_key"
+                ],
+                "sections": [
+                    { "name": "Use Small Key" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 2050,
+                        "y": 1710,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Thief in the Chimney",
+                "access_rules": [
+                    "event_the_haunted_mansion, what_the_thief_forgot"
+                ],
+                "sections": [
+                    { "name": "Event: What the Thief Forgot", "hosted_item": "event_what_the_thief_forgot"},
+                    { "name": "Cheese 1" },
+                    { "name": "Cheese 2" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "baccus_village",
+                        "x": 3225,
+                        "y": 1280,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

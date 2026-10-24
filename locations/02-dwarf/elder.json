@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Outside Dwarf Elder's Hut",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs",
+            "event_clear_the_fog, event_inside_the_kokka_eggs",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs"
+        ],
+        "children": [
+            {
+                "name": "Events (Dwarf Village)",
+                "sections": [
+                    { "name": "Beginner's Dwarf Language", "hosted_item": "event_beginners_dwarf_language" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 5052,
+                        "y": 1739,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            },
+            {
+                "name": "Plant a Garden",
+                "access_rules": [
+                    "flower_seeds,event_a_lost_child"
+                ],
+                "sections": [
+                    { "name": "Event: Flower Seeds", "hosted_item": "event_flower_seeds" },
+                    { "name": "Golden Flower" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 5002,
+                        "y": 1739,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dwarf Elders Hut",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_save_the_dwarves,event_a_lost_child",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_save_the_dwarves,event_a_lost_child",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_save_the_dwarves,event_a_lost_child"
+        ],
+        "children": [
+            {
+                "name": "Meet the Dwarf Elder",
+                "sections": [
+                    { "name": "Pig Bag" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dwarf_forest",
+                        "x": 4934,
+                        "y": 1685,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

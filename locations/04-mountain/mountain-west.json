@@ -1,0 +1,181 @@
+[
+    {
+        "name": "Stormy Mountain (part 1)",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "hundred_year_old_bell, event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout",
+            "event_clear_the_fog, event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout",
+            "million_year_old_bell,thiefs_wire,event_inside_the_kokka_eggs,event_the_worlds_greatest_smile,event_the_worlds_greatest_pout"
+        ],
+        "children": [
+            {
+                "name": "100 Year Old Chest",
+                "access_rules": [ "hundred_year_old_key" ],
+                "sections": [
+                    { "name": "Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/01-hundred-closed.png",
+                "chest_opened_img": "images/chests/01-hundred-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 2601,
+                        "y": 1630,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest",
+                "access_rules": [ "thousand_year_old_key,$CanGrapple" ],
+                "sections": [
+                    { "name": "Big Lunch Box" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 1305,
+                        "y": 1517,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Million Year Old Chest",
+                "access_rules": [
+                    "million_year_old_key, event_phoenix_mountain",
+                    "million_year_old_key, dashing_pants, flash_pants, event_a_hungry_monkey",
+                    "million_year_old_key, $HasAnyFish",
+                    "million_year_old_key, $HasAnyJewel",
+                    "million_year_old_key, $HasBluePowder"
+                ],
+                "sections": [
+                    { "name": "Iron Boomerang" }
+                ],
+                "chest_unopened_img": "images/chests/04-1m-closed.png",
+                "chest_opened_img": "images/chests/04-1m-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 2551,
+                        "y": 1076,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "1,000 Year Old Chest Up High",
+                "access_rules": [ "thousand_year_old_key,$CanGrapple" ],
+                "sections": [
+                    { "name": "1Up 1" },
+                    { "name": "1Up 2" }
+                ],
+                "chest_unopened_img": "images/chests/02-thousand-closed.png",
+                "chest_opened_img": "images/chests/02-thousand-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 1678,
+                        "y": 1020,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "10,000 Year Old Chest",
+                "access_rules": [
+                    "$CanGrapple, ten_thousand_year_old_key, event_phoenix_mountain, $CanBigJump",
+                    "$CanGrapple, ten_thousand_year_old_key, $CanBiggestJump"
+                ],
+                "sections": [
+                    { "name": "1Up 1" },
+                    { "name": "1Up 2" }
+                ],
+                "chest_unopened_img": "images/chests/03-10k-closed.png",
+                "chest_opened_img": "images/chests/03-10k-open.png",
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 2205,
+                        "y": 938,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Funga",
+                "access_rules": [
+                    "funga_drum, event_phoenix_mountain",
+                    "funga_drum, $CanDash, $HasPantsLevel2",
+                    "funga_drum, $HasAnyFish",
+                    "funga_drum, $HasAnyJewel",
+                    "funga_drum, $HasBluePowder"
+                ],
+                "sections": [
+                    { "name": "Return the Drum" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 1705,
+                        "y": 1198,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Give back the Pants",
+                "access_rules": [
+                    "charles_pants, $CanBigJump",
+                    "charles_pants, $CanGrapple",
+                    "charles_pants, $HasAnyJewel",
+                    "charles_pants, event_phoenix_mountain"
+                ],
+                "sections": [
+                    { "name": "Oh Charles" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 1871,
+                        "y": 1678,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Events",
+                "sections": [
+                    { "name": "Where did I come from?", "hosted_item": "event_where_did_i_come_from" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 364,
+                        "y": 2015,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    },
+                    {
+                        "map": "phoenix_mountain",
+                        "x": 4820,
+                        "y": 417,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    }
+]

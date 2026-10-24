@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Clock Tower Engines Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "miners_hat"
+        ],
+        "children": [
+            {
+                "name": "Mixer",
+                "access_rules": [ "bananas" ],
+                "sections": [
+                    { "name": "Banana Juice" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "masakari_jungle",
+                        "x": 2307,
+                        "y": 888,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Yellow Evil Pig",
+                "sections": [
+                    { "name": "Toss them in!", "hosted_item": "event_trick_village" }
+                ],
+                "access_rules": [ "yellow_evil_pig_bag" ],
+                "map_locations": [
+                    {
+                        "map": "masakari_jungle",
+                        "x": 2307,
+                        "y": 1060,
+                        "size": 30,
+                        "shape": "trapezoid"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Iron Castle Main Room",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "miners_hat"
+        ],
+        "children": [
+            {
+                "name": "Need Power",
+                "access_rules": [ "bomb" ],
+                "sections": [
+                    { "name": "Key to Ol' Pond" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "masakari_jungle",
+                        "x": 1653,
+                        "y": 637,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lumberjack Factory",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "miners_hat"
+        ],
+        "children": [
+            {
+                "name": "Build a Raft",
+                "sections": [
+                    { "name": "Raft Pieces" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "masakari_jungle",
+                        "x": 994,
+                        "y": 924,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fuel Bar",
+                "access_rules": "wine",
+                "sections": [
+                    { "name": "Powered by Wine?" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "masakari_jungle",
+                        "x": 890,
+                        "y": 924,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dried Wishing Well",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "miners_hat"
+        ],
+        "children": [
+            {
+                "name": "Basement",
+                "sections": [
+                    { "name": "Charity Wing" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "masakari_jungle",
+                        "x": 979,
+                        "y": 1181,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]

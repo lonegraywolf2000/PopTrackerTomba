@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Motocross Course",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "$CanBreakStuff, fuel_bar"
+        ],
+        "children": [
+            {
+                "name": "Far Fork 1",
+                "sections": [
+                    { "name": "Charity Wing (Left)" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 1555,
+                        "y": 723,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Far Fork 2",
+                "sections": [
+                    { "name": "Charity Wing (Right)" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 1863,
+                        "y": 657,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near Fork House",
+                "sections": [
+                    { "name": "Charity Wing" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 2199,
+                        "y": 624,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Far Fork House",
+                "sections": [
+                    { "name": "Head Inside" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 2156,
+                        "y": 574,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Near Fork Freebie",
+                "sections": [
+                    { "name": "Lunch Box" }
+                ],
+                "map_locations": [
+                    {
+                        "map": "dirt_motocross",
+                        "x": 1650,
+                        "y": 832,
+                        "size": 30,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
+]
