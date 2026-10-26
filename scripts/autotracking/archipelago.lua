@@ -9,7 +9,6 @@ SLOT_DATA = {}
 
 MANUAL_CHECKED = true
 ROOM_SEED = "default"
-TROLL_PLAYER = false
 
 if Highlight then
     HIGHLIGHT_LEVEL= {
@@ -28,11 +27,6 @@ if Highlight then
         [107] = Highlight.Priority, -- Prog + Useful + Trap
     }
 end
-
-Troll_Lookup = {
-    ["solarcell"] = true,
-    ["earthor"] = true,
-}
 
 ---function to build a pretty-printable representation of a provided table
 ---@param o table
@@ -171,20 +165,10 @@ local function PreOnClear()
     PLAYER_ID = Archipelago.PlayerNumber or -1
 	TEAM_NUMBER = Archipelago.TeamNumber or 0
     if PLAYER_ID > -1 then
-        for key, _ in pairs(Troll_Lookup) do
-            if string.find(string.lower(Archipelago:GetPlayerAlias(PLAYER_ID)), key, 1, true) ~= nil then
-                TROLL_PLAYER = true
-                break
-            end
-        end
-
         --- example for how to build a date object and how to check current user's date against it
         --local start_day_range = BuildTimeObj(nil, 3 , 31)
         --local end_day_range = BuildTimeObj(nil, 4 , 5)
         --DATE_CHECK_PASSED = CheckDateRange(start_day_range, end_day_range, os.time())
-        --if TROLL_PLAYER == false and DATE_CHECK_PASSED then
-        --    TROLL_PLAYER = true
-        --end
 
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
@@ -442,11 +426,7 @@ local function UpdateHints(locationID, status) -->
                 local obj = Tracker:FindObjectForCode(location)
 
                 if obj then
-                    if TROLL_PLAYER and HIGHLIGHT_LEVEL[status] == Highlight.Avoid then
-                        obj.Highlight = HIGHLIGHT_LEVEL[30]
-                    else
-                        obj.Highlight = HIGHLIGHT_LEVEL[status]
-                    end
+                    obj.Highlight = HIGHLIGHT_LEVEL[status]
                 else
                     print(string.format("No object found for code: %s", location))
                 end
